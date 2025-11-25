@@ -37,3 +37,8 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+
+# Development/utility files
+puzzles.py
+extract_names.py
+GITHUB_SETUP.md
