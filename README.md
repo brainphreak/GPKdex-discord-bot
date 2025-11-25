@@ -198,11 +198,12 @@ The bot uses SQLite with Write-Ahead Logging (WAL) mode for concurrent access. T
 - `python-dotenv` - Environment variable management
 
 ### Card Images
-Card images are stored in series-specific directories:
-- `os{1-15}_images/` - Original Series images
-- `fb_images/` - Flashback Series images
-- `wb_images/` - White Border Error images
-- `tv_{theme}_images/` - TV Series images (18 different themes)
+Card images are organized in the `card_images/` directory with series-specific subdirectories:
+- `card_images/os{1-15}_images/` - Original Series images
+- `card_images/fb{1-3}_images/` - Flashback Series images
+- `card_images/wb_images/` - White Border Error images
+- `card_images/tv_{theme}_images/` - TV Series images (18 different themes)
+- `card_images/puzzle{1-4}_images/` - Puzzle images
 
 Image naming format: `{series}_{number}{variant}.jpg`
 Example: `os1_1a.jpg`, `fb1_25b.jpg`, `wb_40a.jpg`

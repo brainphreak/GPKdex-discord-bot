@@ -327,7 +327,7 @@ async def load_cards_to_db(images_base_path: str):
 
         for series, config in SERIES_CONFIG.items():
             folder_name = f"{series}_images"
-            folder_path = os.path.join(images_base_path, folder_name)
+            folder_path = os.path.join(images_base_path, "card_images", folder_name)
 
             if not os.path.exists(folder_path):
                 print(f"Warning: Folder {folder_path} not found")
@@ -556,4 +556,4 @@ def get_craft_cost(series: str) -> int:
 async def get_card_image_path(card: dict, images_base_path: str) -> str:
     """Get the full path to a card's image."""
     folder_name = f"{card['series']}_images"
-    return os.path.join(images_base_path, folder_name, card['filename'])
+    return os.path.join(images_base_path, "card_images", folder_name, card['filename'])

@@ -74,7 +74,7 @@ async def load_puzzles_to_db(images_base_path: str):
 
         for puzzle_num, config in PUZZLE_CONFIG.items():
             folder_name = f"{config['folder']}_images"
-            folder_path = os.path.join(images_base_path, folder_name)
+            folder_path = os.path.join(images_base_path, "card_images", folder_name)
 
             # Insert puzzle
             complete_filename = f"{config['folder']}_complete.jpg"
@@ -147,14 +147,14 @@ async def get_puzzle_image_path(puzzle: dict, images_base_path: str) -> str:
     # Determine folder from puzzle name or ID
     puzzle_id = puzzle['puzzle_id']
     folder_name = f"puzzle{puzzle_id}_images"
-    return os.path.join(images_base_path, folder_name, puzzle['complete_filename'])
+    return os.path.join(images_base_path, "card_images", folder_name, puzzle['complete_filename'])
 
 
 async def get_piece_image_path(piece: dict, puzzle: dict, images_base_path: str) -> str:
     """Get the full path to a puzzle piece's image."""
     puzzle_id = puzzle['puzzle_id']
     folder_name = f"puzzle{puzzle_id}_images"
-    return os.path.join(images_base_path, folder_name, piece['filename'])
+    return os.path.join(images_base_path, "card_images", folder_name, piece['filename'])
 
 
 def get_puzzle_preview_path(puzzle_id: int, images_base_path: str) -> str:
@@ -163,4 +163,4 @@ def get_puzzle_preview_path(puzzle_id: int, images_base_path: str) -> str:
     if not config or not config.get('preview_filename'):
         return None
     folder_name = f"{config['folder']}_images"
-    return os.path.join(images_base_path, folder_name, config['preview_filename'])
+    return os.path.join(images_base_path, "card_images", folder_name, config['preview_filename'])
