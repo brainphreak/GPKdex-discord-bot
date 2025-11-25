@@ -1,0 +1,17 @@
+[Unit]
+Description=GPK Dex Discord Bot
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+WorkingDirectory=/var/www/html/escapethetube/gpkdex
+ExecStart=/usr/bin/python3 /var/www/html/escapethetube/gpkdex/bot.py
+Restart=always
+RestartSec=10
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=gpkdex
+
+[Install]
+WantedBy=multi-user.target

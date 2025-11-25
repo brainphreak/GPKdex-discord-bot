@@ -1,0 +1,4244 @@
+{
+  "os1": {
+    "1": {
+      "a": "Nasty Nick",
+      "b": "Evil Eddie"
+    },
+    "2": {
+      "a": "Junkfood John",
+      "b": "Ray Decay"
+    },
+    "3": {
+      "a": "Up Chuck",
+      "b": "Heavin' Steven"
+    },
+    "4": {
+      "a": "Fryin' Brian",
+      "b": "Electric Bill"
+    },
+    "5": {
+      "a": "Dead Ted",
+      "b": "Jay Decay"
+    },
+    "6": {
+      "a": "Art Apart",
+      "b": "Busted Bob"
+    },
+    "7": {
+      "a": "Stormy Heather",
+      "b": "April Showers"
+    },
+    "8": {
+      "a": "Adam Bomb",
+      "b": "Blasted Billy"
+    },
+    "9": {
+      "a": "Boozin' Bruce",
+      "b": "Drunk Ken"
+    },
+    "10": {
+      "a": "Tee-Vee Stevie",
+      "b": "Geeky Gary"
+    },
+    "11": {
+      "a": "Itchy Richie",
+      "b": "Bugged Bert"
+    },
+    "12": {
+      "a": "Furry Fran",
+      "b": "Hairy Mary"
+    },
+    "13": {
+      "a": "Ashcan Andy",
+      "b": "Stacey Stacy"
+    },
+    "14": {
+      "a": "Potty Scotty",
+      "b": "Jasin Basin"
+    },
+    "15": {
+      "a": "Ailin' Al",
+      "b": "Mauled Paul"
+    },
+    "16": {
+      "a": "Weird Wendy",
+      "b": "Haggy Maggie"
+    },
+    "17": {
+      "a": "Wacky Jackie",
+      "b": "Loony Lenny"
+    },
+    "18": {
+      "a": "Cranky Frankie",
+      "b": "Bad Brad"
+    },
+    "19": {
+      "a": "Corroded Carl",
+      "b": "Crater Chris"
+    },
+    "20": {
+      "a": "Swell Mell",
+      "b": "Dressy Jesse"
+    },
+    "21": {
+      "a": "Virus Iris",
+      "b": "Sicky Vicky"
+    },
+    "22": {
+      "a": "Junky Jeff",
+      "b": "Stinky Stan"
+    },
+    "23": {
+      "a": "Drippy Dan",
+      "b": "Leaky Lou"
+    },
+    "24": {
+      "a": "Nervous Rex",
+      "b": "Nerdy Norm"
+    },
+    "25": {
+      "a": "Creepy Carol",
+      "b": "Scary Carrie"
+    },
+    "26": {
+      "a": "Slobby Robbie",
+      "b": "Fat Matt"
+    },
+    "27": {
+      "a": "Brainy Janie",
+      "b": "Jenny Genius"
+    },
+    "28": {
+      "a": "Oozy Suzie",
+      "b": "Meltin' Melissa"
+    },
+    "29": {
+      "a": "Bony Joanie",
+      "b": "Thin Lynn"
+    },
+    "30": {
+      "a": "New Wave Dave",
+      "b": "Graffiti Petey"
+    },
+    "31": {
+      "a": "Run Down Rhoda",
+      "b": "Flat Pat"
+    },
+    "32": {
+      "a": "Frigid Bridget",
+      "b": "Chilly Millie"
+    },
+    "33": {
+      "a": "Mad Mike",
+      "b": "Savage Stuart"
+    },
+    "34": {
+      "a": "Kim Kong",
+      "b": "Anna Banana"
+    },
+    "35": {
+      "a": "Wrinkly Randy",
+      "b": "Rockin' Robert"
+    },
+    "36": {
+      "a": "Wrappin' Ruth",
+      "b": "Tommy Tomb"
+    },
+    "37": {
+      "a": "Guillo Tina",
+      "b": "Cindy Lopper"
+    },
+    "38": {
+      "a": "Slimy Sam",
+      "b": "Lizard Liz"
+    },
+    "39": {
+      "a": "Buggy Betty",
+      "b": "Green Jean"
+    },
+    "40": {
+      "a": "Unstitched Mitch",
+      "b": "Damaged Don"
+    },
+    "41": {
+      "a": "Mean Gene",
+      "b": "Joltin' Joe"
+    }
+  },
+  "os2": {
+    "42": {
+      "a": "Patty Putty",
+      "b": "Muggin' Megan"
+    },
+    "43": {
+      "a": "Smelly Kelly",
+      "b": "Doug Plug"
+    },
+    "44": {
+      "a": "Sy Clops",
+      "b": "One-Eyed Jack"
+    },
+    "45": {
+      "a": "Leaky Lindsay",
+      "b": "Messy Tessie"
+    },
+    "46": {
+      "a": "Rappin' Ron",
+      "b": "Ray Gun"
+    },
+    "47": {
+      "a": "Disgustin' Justin",
+      "b": "Vile Kyle"
+    },
+    "48": {
+      "a": "Tongue Tied Tim",
+      "b": "Marty Mouthful"
+    },
+    "49": {
+      "a": "Double Heather",
+      "b": "Schizo Fran"
+    },
+    "50": {
+      "a": "Mad Donna",
+      "b": "Nutty Nicole"
+    },
+    "51": {
+      "a": "Russell Muscle",
+      "b": "Brett Sweat"
+    },
+    "52": {
+      "a": "Dirty Harry",
+      "b": "Rob Slob"
+    },
+    "53": {
+      "a": "Jolted Joel",
+      "b": "Live Mike"
+    },
+    "54": {
+      "a": "Fryin' Ryan",
+      "b": "Charred Chad"
+    },
+    "55": {
+      "a": "Hairy Gary",
+      "b": "Brutal Brad"
+    },
+    "56": {
+      "a": "Hairy Carrie",
+      "b": "Brutal Bridget"
+    },
+    "57": {
+      "a": "Tommy Gun",
+      "b": "Dead Fred"
+    },
+    "58": {
+      "a": "Cracked Jack",
+      "b": "Soft Boiled Sam"
+    },
+    "59": {
+      "a": "Clogged Duane",
+      "b": "Bye Bye Bobby"
+    },
+    "60": {
+      "a": "Prickly Rick",
+      "b": "Cactus Carol"
+    },
+    "61": {
+      "a": "Pegleg Peter",
+      "b": "Peg Leg Greg"
+    },
+    "62": {
+      "a": "Chris Hiss",
+      "b": "Ssssam"
+    },
+    "63": {
+      "a": "Spacey Stacy",
+      "b": "Janet Planet"
+    },
+    "64": {
+      "a": "Hot Scott",
+      "b": "Luke Warm"
+    },
+    "65": {
+      "a": "Shrunken Ed",
+      "b": "Cheeky Charles"
+    },
+    "66": {
+      "a": "Matt Ratt",
+      "b": "Rachel Rodent"
+    },
+    "67": {
+      "a": "Phony Lisa",
+      "b": "Mona Loser"
+    },
+    "68": {
+      "a": "Oliver Twisted",
+      "b": "Dizzy Dave"
+    },
+    "69": {
+      "a": "Jenny Jelly",
+      "b": "Sara Slime"
+    },
+    "70": {
+      "a": "Bad Breath Seth",
+      "b": "Foul Phil"
+    },
+    "71": {
+      "a": "Odd Todd",
+      "b": "Bent Ben"
+    },
+    "72": {
+      "a": "Mad Max",
+      "b": "Brainy Brian"
+    },
+    "73": {
+      "a": "Gorgeous George",
+      "b": "Dollar Bill"
+    },
+    "74": {
+      "a": "Mark Bark",
+      "b": "Kennel Kenny"
+    },
+    "75": {
+      "a": "Off-the-Wall Paul",
+      "b": "Zach Plaque"
+    },
+    "76": {
+      "a": "Bonnie Bunny",
+      "b": "Pourin' Lauren"
+    },
+    "77": {
+      "a": "Ghastly Ashley",
+      "b": "Acne Amy"
+    },
+    "78": {
+      "a": "Wrinkled Rita",
+      "b": "Ancient Annie"
+    },
+    "79": {
+      "a": "Sewer Sue",
+      "b": "Michelle Muck"
+    },
+    "80": {
+      "a": "Tattoo Lou",
+      "b": "Art Gallery"
+    },
+    "81": {
+      "a": "Split Kit",
+      "b": "Mixed-Up Mitch"
+    },
+    "82": {
+      "a": "Slain Wayne",
+      "b": "Ventilated Vinnie"
+    },
+    "83": {
+      "a": "Ugh Lee",
+      "b": "Sumo Sid"
+    }
+  },
+  "os3": {
+    "84": {
+      "a": "Joe Blow",
+      "b": "Rod Wad"
+    },
+    "85": {
+      "a": "Stuck Chuck",
+      "b": "Pinned Lynn"
+    },
+    "86": {
+      "a": "Horsey Henry",
+      "b": "Galloping Glen"
+    },
+    "87": {
+      "a": "Hot Head Harvey",
+      "b": "Roy Bot"
+    },
+    "88": {
+      "a": "Dinah Saur",
+      "b": "Farrah Fossil"
+    },
+    "89": {
+      "a": "Hurt Curt",
+      "b": "Pat Splat"
+    },
+    "90": {
+      "a": "Stoned Sean",
+      "b": "Thick Vic"
+    },
+    "91": {
+      "a": "Blake Flake",
+      "b": "Hippie Skippy"
+    },
+    "92": {
+      "a": "Marvin Gardens",
+      "b": "Spittin' Spencer"
+    },
+    "93": {
+      "a": "Drew Blood",
+      "b": "Bustin' Dustin"
+    },
+    "94": {
+      "a": "Bruised Lee",
+      "b": "Karate Kate"
+    },
+    "95": {
+      "a": "Grim Jim",
+      "b": "Beth Death"
+    },
+    "96": {
+      "a": "Distorted Dot",
+      "b": "Mirror Imogene"
+    },
+    "97": {
+      "a": "Punchy Perry",
+      "b": "Creamed Keith"
+    },
+    "98": {
+      "a": "Charlotte Web",
+      "b": "Didi T."
+    },
+    "99": {
+      "a": "Beaky Becky",
+      "b": "Picky Mickey"
+    },
+    "100": {
+      "a": "Ali Gator",
+      "b": "Marshy Marshall"
+    },
+    "101": {
+      "a": "Mushy Marsha",
+      "b": "Baskin Robin"
+    },
+    "102": {
+      "a": "Mugged Marcus",
+      "b": "Kayo'd Cody"
+    },
+    "103": {
+      "a": "Wriggley Rene",
+      "b": "Curly Carla"
+    },
+    "104": {
+      "a": "Silent Sandy",
+      "b": "Barren Aaron"
+    },
+    "105": {
+      "a": "Juicy Jessica",
+      "b": "Green Dean"
+    },
+    "106": {
+      "a": "Fowl Raoul",
+      "b": "Mack Quack"
+    },
+    "107": {
+      "a": "Totem Paula",
+      "b": "Tatum Pole"
+    },
+    "108": {
+      "a": "Smelly Sally",
+      "b": "Fishy Phyllis"
+    },
+    "109": {
+      "a": "Toady Terry",
+      "b": "Croakin' Colin"
+    },
+    "110": {
+      "a": "Snooty Sam",
+      "b": "U.S. Arnie"
+    },
+    "111": {
+      "a": "Target Margaret",
+      "b": "Bullseye Barry"
+    },
+    "112": {
+      "a": "Frank N. Stein",
+      "b": "Undead Jed"
+    },
+    "113": {
+      "a": "Alice Island",
+      "b": "Liberty Libby"
+    },
+    "114": {
+      "a": "Starin' Darren",
+      "b": "Peepin' Tom"
+    },
+    "115": {
+      "a": "Warmin' Norman",
+      "b": "Well Done Sheldon"
+    },
+    "116": {
+      "a": "Eerie Eric",
+      "b": "Beserk Kirk"
+    },
+    "117": {
+      "a": "Rocky N. Roll",
+      "b": "Las Vegas"
+    },
+    "118": {
+      "a": "Half-Nelson",
+      "b": "Glandular Angela"
+    },
+    "119": {
+      "a": "Ned Head",
+      "b": "Still Jill"
+    },
+    "120": {
+      "a": "Babbling Brooke",
+      "b": "Jelly Kelly"
+    },
+    "121": {
+      "a": "Apple Cory",
+      "b": "Dwight Bite"
+    },
+    "122": {
+      "a": "Broad Maud",
+      "b": "Large Marge"
+    },
+    "123": {
+      "a": "Glooey Gabe",
+      "b": "Sticky Rick"
+    },
+    "124": {
+      "a": "Hugh Mungous",
+      "b": "King-Size Kevin"
+    }
+  },
+  "os4": {
+    "125": {
+      "a": "Holly Wood",
+      "b": "Woody Alan"
+    },
+    "126": {
+      "a": "Armpit Britt",
+      "b": "Shaggy Aggie"
+    },
+    "127": {
+      "a": "Travelin' Travis",
+      "b": "Flat Tyler"
+    },
+    "128": {
+      "a": "Sloshed Josh",
+      "b": "Low Cal"
+    },
+    "129": {
+      "a": "Second Hand Rose",
+      "b": "Trashed Tracy"
+    },
+    "130": {
+      "a": "Nicky Hickey",
+      "b": "Hank E. Panky"
+    },
+    "131": {
+      "a": "Stuffed Stephen",
+      "b": "Rutherford B. Hay"
+    },
+    "132": {
+      "a": "Bony Tony",
+      "b": "Unzipped Zack"
+    },
+    "133": {
+      "a": "Furry Murray",
+      "b": "Foxy Frances"
+    },
+    "134": {
+      "a": "Hip Kip",
+      "b": "Walt Witless"
+    },
+    "135": {
+      "a": "Rock E. Horror",
+      "b": "Marty Gras"
+    },
+    "136": {
+      "a": "Swollen Sue Ellen",
+      "b": "Bloated Blair"
+    },
+    "137": {
+      "a": "Max Axe",
+      "b": "Deadly Dudley"
+    },
+    "138": {
+      "a": "Alien Ian",
+      "b": "Outerspace Chase"
+    },
+    "139": {
+      "a": "Double Iris",
+      "b": "4-Eyed Ida"
+    },
+    "140": {
+      "a": "Mouth Phil",
+      "b": "Tooth Les"
+    },
+    "141": {
+      "a": "Ashley Can",
+      "b": "Greta Garbage"
+    },
+    "142": {
+      "a": "Bruce Moose",
+      "b": "Hunted Hunter"
+    },
+    "143": {
+      "a": "Melba Toast",
+      "b": "Hy Rye"
+    },
+    "144": {
+      "a": "Horny Hal",
+      "b": "Rudy Toot"
+    },
+    "145": {
+      "a": "Dale Snail",
+      "b": "Crushed Shelly"
+    },
+    "146": {
+      "a": "Baked Jake",
+      "b": "Dry Guy"
+    },
+    "147": {
+      "a": "Amazin' Grace",
+      "b": "Muscular Molly"
+    },
+    "148": {
+      "a": "Turned-On Tara",
+      "b": "Tiffany Lamp"
+    },
+    "149": {
+      "a": "Reese Pieces",
+      "b": "Incomplete Pete"
+    },
+    "150": {
+      "a": "Hairy Harriet",
+      "b": "Bushy Bernice"
+    },
+    "151": {
+      "a": "Losin' Faith",
+      "b": "Dyin' Dinah"
+    },
+    "152": {
+      "a": "Whisperin' Woody",
+      "b": "Van Triloquist"
+    },
+    "153": {
+      "a": "Jack O. Lantern",
+      "b": "Duncan Pumpkin"
+    },
+    "154": {
+      "a": "Basket Casey",
+      "b": "Dribblin' Derek"
+    },
+    "155": {
+      "a": "Spikey Mikey",
+      "b": "Nailed Neil"
+    },
+    "156": {
+      "a": "Warrin' Warren",
+      "b": "Brett Vet"
+    },
+    "157": {
+      "a": "Larry Lips",
+      "b": "Distortin' Morton"
+    },
+    "158": {
+      "a": "Meltin' Elton",
+      "b": "Crystal Gale"
+    },
+    "159": {
+      "a": "Catty Cathy",
+      "b": "Kitty Litter"
+    },
+    "160": {
+      "a": "Decapitated Hedy",
+      "b": "Formalde Heidi"
+    },
+    "161": {
+      "a": "Shorned Sean",
+      "b": "Hy Gene"
+    },
+    "162": {
+      "a": "Yicchy Mickey",
+      "b": "Barfin' Bart"
+    },
+    "163": {
+      "a": "Trish Squish",
+      "b": "Ruby Cube"
+    },
+    "164": {
+      "a": "Teddy Bear",
+      "b": "Salvatore Dolly"
+    },
+    "165": {
+      "a": "Dana Druff",
+      "b": "Flakey Fay"
+    },
+    "166": {
+      "a": "Gored Gordon",
+      "b": "No Way Jose"
+    }
+  },
+  "os5": {
+    "167": {
+      "a": "Mick Dagger",
+      "b": "Slayed Slade"
+    },
+    "168": {
+      "a": "Handy Randy",
+      "b": "Jordan Nuts"
+    },
+    "169": {
+      "a": "Dee Faced",
+      "b": "Terri Cloth"
+    },
+    "170": {
+      "a": "Richie Retch",
+      "b": "Luke Puke"
+    },
+    "171": {
+      "a": "Willie Wipe-Out",
+      "b": "Spencer Dispenser"
+    },
+    "172": {
+      "a": "Nat Nerd",
+      "b": "Clark Can't"
+    },
+    "173": {
+      "a": "Menaced Dennis",
+      "b": "Wormy Shermy"
+    },
+    "174": {
+      "a": "Fred Thread",
+      "b": "Repaired Rex"
+    },
+    "175": {
+      "a": "Windy Winston",
+      "b": "Johnny One-Note"
+    },
+    "176": {
+      "a": "Condo-Minnie",
+      "b": "Bill Ding"
+    },
+    "177": {
+      "a": "Meltin' Milton",
+      "b": "Lazy Louie"
+    },
+    "178": {
+      "a": "Earl Painting",
+      "b": "Blue-Boy George"
+    },
+    "179": {
+      "a": "Moe Skeeto",
+      "b": "Sting Ray"
+    },
+    "180": {
+      "a": "Haunted Hollis",
+      "b": "Batty Barney"
+    },
+    "181": {
+      "a": "Cliff Hanger",
+      "b": "Neck Ty"
+    },
+    "182": {
+      "a": "Sprayed Wade",
+      "b": "Tagged Tad"
+    },
+    "183": {
+      "a": "Diaper Dan",
+      "b": "Pinned Penny"
+    },
+    "184": {
+      "a": "Upside Down Donald",
+      "b": "Hugh Turn"
+    },
+    "185": {
+      "a": "Fran Furter",
+      "b": "Hot Doug"
+    },
+    "186": {
+      "a": "Iron-Jaw Aaron",
+      "b": "Jean Machine"
+    },
+    "187": {
+      "a": "Ginger Snapped",
+      "b": "Edible Ernie"
+    },
+    "188": {
+      "a": "Mel Meal",
+      "b": "Ross Roast"
+    },
+    "189": {
+      "a": "Brenda Blender",
+      "b": "Juicy Lucy"
+    },
+    "190": {
+      "a": "Gory Rory",
+      "b": "Gil Grill"
+    },
+    "191": {
+      "a": "Ben Bolt",
+      "b": "Fried Franklin"
+    },
+    "192": {
+      "a": "Delicate Tess",
+      "b": "Hamburger Pattie"
+    },
+    "193": {
+      "a": "Shattered Shelby",
+      "b": "Cracked Craig"
+    },
+    "194": {
+      "a": "Nasty Nancy",
+      "b": "Razzin' Roslyn"
+    },
+    "195": {
+      "a": "Lucas Mucus",
+      "b": "Dotty Dribble"
+    },
+    "196": {
+      "a": "Dangling Dolly",
+      "b": "Surreal Neal"
+    },
+    "197": {
+      "a": "Doughy Joey",
+      "b": "Starchy Archie"
+    },
+    "198": {
+      "a": "Gore May",
+      "b": "Connie Sewer"
+    },
+    "199": {
+      "a": "Ruptured Rupert",
+      "b": "Gassy Gus"
+    },
+    "200": {
+      "a": "Fluoride Floyd",
+      "b": "Dental Daniel"
+    },
+    "201": {
+      "a": "Michael Mutant",
+      "b": "Zeke Freak"
+    },
+    "202": {
+      "a": "Ultra Violet",
+      "b": "Tanya Hide"
+    },
+    "203": {
+      "a": "Toothie Ruthie",
+      "b": "Dental Flossie"
+    },
+    "204": {
+      "a": "Jules Drools",
+      "b": "Kit Spit"
+    },
+    "205": {
+      "a": "Hot Rod",
+      "b": "Bud Buggy"
+    },
+    "206": {
+      "a": "Deaf Geoff",
+      "b": "Audio Augie"
+    }
+  },
+  "os6": {
+    "207": {
+      "a": "Over Flo",
+      "b": "Moist Joyce"
+    },
+    "208": {
+      "a": "Joel Hole",
+      "b": "Teed-Off Tom"
+    },
+    "209": {
+      "a": "Whacked-Up Wally",
+      "b": "Paddlin' Madeline"
+    },
+    "210": {
+      "a": "Intense Payne",
+      "b": "First Ada"
+    },
+    "211": {
+      "a": "See More Seymour",
+      "b": "Coy Roy"
+    },
+    "212": {
+      "a": "Upliftin' Clifton",
+      "b": "Air-Head Jed"
+    },
+    "213": {
+      "a": "Otto Whack",
+      "b": "Elliot Mess"
+    },
+    "214": {
+      "a": "Off-Color Clara",
+      "b": "Brushed-Off Brenda"
+    },
+    "215": {
+      "a": "Gnawing Nora",
+      "b": "Nervous Nellie"
+    },
+    "216": {
+      "a": "Tiny Tim",
+      "b": "Small Saul"
+    },
+    "217": {
+      "a": "Trashy Trudy",
+      "b": "Rose Dispose"
+    },
+    "218": {
+      "a": "Tom Thumb",
+      "b": "Bridget Digit"
+    },
+    "219": {
+      "a": "George Washingdone",
+      "b": "Pressed Preston"
+    },
+    "220": {
+      "a": "Joan Clone",
+      "b": "Warty Ward"
+    },
+    "221": {
+      "a": "Cracked Crystal",
+      "b": "Shrill Jill"
+    },
+    "222": {
+      "a": "Troy Toy",
+      "b": "Loose Spring"
+    },
+    "223": {
+      "a": "Lolly Poppy",
+      "b": "Lily Popped"
+    },
+    "224": {
+      "a": "Monte Zuma",
+      "b": "Pagan Megan"
+    },
+    "225": {
+      "a": "Nasal Hazel",
+      "b": "Snotty Lottie"
+    },
+    "226": {
+      "a": "Pierced Pearl",
+      "b": "Cheap Jewel"
+    },
+    "227": {
+      "a": "Bea Sting",
+      "b": "Screaming Mimi"
+    },
+    "228": {
+      "a": "Casper Gasper",
+      "b": "Uncool Carl"
+    },
+    "229": {
+      "a": "Claire Stare",
+      "b": "Bloodshot Scott"
+    },
+    "230": {
+      "a": "Manuel Labor",
+      "b": "Handy Andy"
+    },
+    "231": {
+      "a": "Ashley Tray",
+      "b": "Bernie Burns"
+    },
+    "232": {
+      "a": "Pam Ham",
+      "b": "Cole Cut"
+    },
+    "233": {
+      "a": "Wes Mess",
+      "b": "Trash-Can Ken"
+    },
+    "234": {
+      "a": "Harry Canary",
+      "b": "Burt Cage"
+    },
+    "235": {
+      "a": "Ugly Hans",
+      "b": "Jan Hand"
+    },
+    "236": {
+      "a": "Trina Cleaner",
+      "b": "Suckin' Sybil"
+    },
+    "237": {
+      "a": "Totaled Todd",
+      "b": "Towin' Owen"
+    },
+    "238": {
+      "a": "Marc Spark",
+      "b": "Cherry Bomb"
+    },
+    "239": {
+      "a": "Jerry Atric",
+      "b": "Abraham Wrinklin'"
+    },
+    "240": {
+      "a": "Radar Ray",
+      "b": "Eve Droppin'"
+    },
+    "241": {
+      "a": "Old Gloria",
+      "b": "Jose Can You See"
+    },
+    "242": {
+      "a": "Clean Maureen",
+      "b": "Dryin' Ryan"
+    },
+    "243": {
+      "a": "Lee Tree",
+      "b": "Sherwood Forest"
+    },
+    "244": {
+      "a": "Welcome Matt",
+      "b": "Muddy Maude"
+    },
+    "245": {
+      "a": "Shish K. Bob",
+      "b": "Barbie Q."
+    },
+    "246": {
+      "a": "John John",
+      "b": "Flushing Floyd"
+    },
+    "247": {
+      "a": "Rusty Heap",
+      "b": "Rustin' Justin"
+    },
+    "248": {
+      "a": "Hector Collector",
+      "b": "G.P. Kay"
+    },
+    "249": {
+      "a": "Many Lenny",
+      "b": "Lotta Carlotta"
+    },
+    "250": {
+      "a": "Newly-Dead Ed",
+      "b": "Dyna Mike"
+    }
+  },
+  "os7": {
+    "251": {
+      "a": "Barfin' Barbara",
+      "b": "Valerie Vomit"
+    },
+    "252": {
+      "a": "Milky Wayne",
+      "b": "Dairy Cari"
+    },
+    "253": {
+      "a": "Russ Pus",
+      "b": "Louise Squeeze"
+    },
+    "254": {
+      "a": "Chris Mess",
+      "b": "Sandy Clod"
+    },
+    "255": {
+      "a": "On The Mark",
+      "b": "Bull's Ira"
+    },
+    "256": {
+      "a": "Jack Pot",
+      "b": "Monte Carlo"
+    },
+    "257": {
+      "a": "Cut-Up Carmen",
+      "b": "Dotted Lionel"
+    },
+    "258": {
+      "a": "Mickey Mouths",
+      "b": "Oral Laurel"
+    },
+    "259": {
+      "a": "Grilled Gil",
+      "b": "Well Don"
+    },
+    "260": {
+      "a": "Adam Boom",
+      "b": "Blasted Billy II"
+    },
+    "261": {
+      "a": "Gooey Huey",
+      "b": "Bobbi Booger"
+    },
+    "262": {
+      "a": "Brainless Bryan",
+      "b": "Jughead Ted"
+    },
+    "263": {
+      "a": "Vincent van Gone",
+      "b": "Modern Art"
+    },
+    "264": {
+      "a": "Pete Seat",
+      "b": "Noel Bowl"
+    },
+    "265": {
+      "a": "Curly Shirley",
+      "b": "Blown Joan"
+    },
+    "266": {
+      "a": "Roy L. Flush",
+      "b": "Shuffled Sherman"
+    },
+    "267": {
+      "a": "Tongue Tied Tina",
+      "b": "Braided Brandy"
+    },
+    "268": {
+      "a": "Phil Grim",
+      "b": "William Penned"
+    },
+    "269": {
+      "a": "Sharpened Sheena",
+      "b": "Cranky Kristin"
+    },
+    "270": {
+      "a": "Cannibal Stu",
+      "b": "Brewin' Bruno"
+    },
+    "271": {
+      "a": "Bratty Maddy",
+      "b": "Dirty Birdie"
+    },
+    "272": {
+      "a": "Elastic Elwood",
+      "b": "Fletcher Stretcher"
+    },
+    "273": {
+      "a": "Haunted Forrest",
+      "b": "Sappy Sarah"
+    },
+    "274": {
+      "a": "Reptillian Lillian",
+      "b": "Jay Prey"
+    },
+    "275": {
+      "a": "Wheel Barry",
+      "b": "Rollin' Roland"
+    },
+    "276": {
+      "a": "Vanessa Undresser",
+      "b": "Banana Anna"
+    },
+    "277": {
+      "a": "Reuben Cube",
+      "b": "Blockhead Blake"
+    },
+    "278": {
+      "a": "Have A Nice Dave",
+      "b": "Miles Smiles"
+    },
+    "279": {
+      "a": "Short Mort",
+      "b": "Noah Body"
+    },
+    "280": {
+      "a": "Shut-Up Sherwin",
+      "b": "Filled Up Philip"
+    },
+    "281": {
+      "a": "Soured Howard",
+      "b": "Paul Bunion"
+    },
+    "282": {
+      "a": "Screwey Dewey",
+      "b": "Bent Brent"
+    },
+    "283": {
+      "a": "Alien Alan",
+      "b": "Martian Marcia"
+    },
+    "284": {
+      "a": "Manny Heads",
+      "b": "Max Stacks"
+    },
+    "285": {
+      "a": "Wind Sheila",
+      "b": "Hit N' Ronnie"
+    },
+    "286": {
+      "a": "Haley Comet",
+      "b": "June Moon"
+    },
+    "287": {
+      "a": "Christine Vaccine",
+      "b": "Medi Kate"
+    },
+    "288": {
+      "a": "Grant Ant",
+      "b": "Sticky Nikki"
+    },
+    "289": {
+      "a": "Stair Casey",
+      "b": "Alexander The Grate"
+    },
+    "290": {
+      "a": "Busted Armand",
+      "b": "Jim Nauseum"
+    },
+    "291": {
+      "a": "Homer Runt",
+      "b": "Screwball Lew"
+    },
+    "292": {
+      "a": "Staple Gunther",
+      "b": "Clipped Claude"
+    }
+  },
+  "os8": {
+    "293": {
+      "a": "Explorin' Norman",
+      "b": "Drillin' Dylan"
+    },
+    "294": {
+      "a": "Weird Wendell",
+      "b": "Luke At Me"
+    },
+    "295": {
+      "a": "Charlie Horse",
+      "b": "Amusement Parker"
+    },
+    "296": {
+      "a": "Plucked Daisy",
+      "b": "Wiltin' Milton"
+    },
+    "297": {
+      "a": "Yul Tied",
+      "b": "Murray Christmas"
+    },
+    "298": {
+      "a": "Bloody Mary",
+      "b": "Donna Donor"
+    },
+    "299": {
+      "a": "Buck Puck",
+      "b": "Lowell Goal"
+    },
+    "300": {
+      "a": "Corrina Corona",
+      "b": "Smoky Joe"
+    },
+    "301": {
+      "a": "Bowling Elaine",
+      "b": "Mike Strike"
+    },
+    "302": {
+      "a": "Mixed-Up Mick",
+      "b": "Artificial Mitchell"
+    },
+    "303": {
+      "a": "Hung Up Hank",
+      "b": "Coat Rack Zack"
+    },
+    "304": {
+      "a": "Rubbin' Robyn",
+      "b": "Soapy Opie"
+    },
+    "305": {
+      "a": "Grate Scott",
+      "b": "Reggie Veggie"
+    },
+    "306": {
+      "a": "Midge Fridge",
+      "b": "Leftover Grover"
+    },
+    "307": {
+      "a": "Divin' Ivan",
+      "b": "Walter Sport"
+    },
+    "308": {
+      "a": "Fritz Spritz",
+      "b": "Ella P. Record"
+    },
+    "309": {
+      "a": "Heartless Hal",
+      "b": "Bowen Arrow"
+    },
+    "310": {
+      "a": "Stinkin' Stella",
+      "b": "Smellin' Helen"
+    },
+    "311": {
+      "a": "Stu Spew",
+      "b": "Slimin' Simon"
+    },
+    "312": {
+      "a": "Moe Bile",
+      "b": "Dang Len"
+    },
+    "313": {
+      "a": "Graham Bell",
+      "b": "Death Nell"
+    },
+    "314": {
+      "a": "Shifting Sandy",
+      "b": "Grainy Janey"
+    },
+    "315": {
+      "a": "Messy Bessie",
+      "b": "Unclean Helene"
+    },
+    "316": {
+      "a": "Flowin' Owen",
+      "b": "Russell Spout"
+    },
+    "317": {
+      "a": "James Flames",
+      "b": "Burnin' Vernon"
+    },
+    "318": {
+      "a": "Haley's Vomit",
+      "b": "Inter Stella"
+    },
+    "319": {
+      "a": "Chopped Susie",
+      "b": "Shana Saw"
+    },
+    "320": {
+      "a": "Pumping Aaron",
+      "b": "Will Explode"
+    },
+    "321": {
+      "a": "Squashed Josh",
+      "b": "Squoze Rose"
+    },
+    "322": {
+      "a": "K.O.'d Karl",
+      "b": "Sparrin' Warren"
+    },
+    "323": {
+      "a": "Piece O' Lisa",
+      "b": "Wedding Bella"
+    },
+    "324": {
+      "a": "Waffle Ira",
+      "b": "Griddled Greta"
+    },
+    "325": {
+      "a": "Marcel Parcel",
+      "b": "Handle With Caren"
+    },
+    "326": {
+      "a": "Leather Heather",
+      "b": "Chained Shane"
+    },
+    "327": {
+      "a": "Needled Nina",
+      "b": "Knittin' Brittany"
+    },
+    "328": {
+      "a": "Glowing Amber",
+      "b": "Bright Dwight"
+    },
+    "329": {
+      "a": "Lem Phlegm",
+      "b": "Gezundt Heidi"
+    },
+    "330": {
+      "a": "Lotta Lotta",
+      "b": "Dupli-Kit"
+    },
+    "331": {
+      "a": "Page Cage",
+      "b": "Tommy Ache"
+    },
+    "332": {
+      "a": "Sling Scott",
+      "b": "Teddy Aim Fire"
+    },
+    "333": {
+      "a": "Ortho Donny",
+      "b": "Ruth Canal"
+    },
+    "334": {
+      "a": "Ashley To Ashes",
+      "b": "Dustin To Dust"
+    }
+  },
+  "os9": {
+    "335": {
+      "a": "Cute Tippi",
+      "b": "Waxy Wendy"
+    },
+    "336": {
+      "a": "Laser Ray",
+      "b": "Sizzlin' Sid"
+    },
+    "337": {
+      "a": "Early Bert",
+      "b": "Rotten Robin"
+    },
+    "338": {
+      "a": "See-Sawyer",
+      "b": "Teeter Todd"
+    },
+    "339": {
+      "a": "Snot Rope Hope",
+      "b": "Drippy Debbie"
+    },
+    "340": {
+      "a": "Half-Baked Betty",
+      "b": "Rollin' Rolanda"
+    },
+    "341": {
+      "a": "Juicy Bruce",
+      "b": "Fruity Rudy"
+    },
+    "342": {
+      "a": "Jim Equipment",
+      "b": "Buddy Builder"
+    },
+    "343": {
+      "a": "Con Vic",
+      "b": "Al Catraz"
+    },
+    "344": {
+      "a": "Perry Chute",
+      "b": "Rip Cord"
+    },
+    "345": {
+      "a": "Cyril Bowl",
+      "b": "Soggy Oggie"
+    },
+    "346": {
+      "a": "Peeled Paul",
+      "b": "Skin Les"
+    },
+    "347": {
+      "a": "Dam Dan",
+      "b": "Mike Dike"
+    },
+    "348": {
+      "a": "Plane Jane",
+      "b": "Woody Shop"
+    },
+    "349": {
+      "a": "Polluted Percy",
+      "b": "Barnacle Bill"
+    },
+    "350": {
+      "a": "Misty Suds",
+      "b": "Amelia Airhead"
+    },
+    "351": {
+      "a": "Cheryl Peril",
+      "b": "Deflatin' Nathan"
+    },
+    "352": {
+      "a": "Herman Hormone",
+      "b": "Turned-On Ron"
+    },
+    "353": {
+      "a": "Bazooka Joanne",
+      "b": "Bubbly Babs"
+    },
+    "354": {
+      "a": "Clark Shark",
+      "b": "Manny Eater"
+    },
+    "355": {
+      "a": "Beasty Boyd",
+      "b": "Semi Colin"
+    },
+    "356": {
+      "a": "Momma Mia",
+      "b": "Electric Shari"
+    },
+    "357": {
+      "a": "3-Dee",
+      "b": "Blurry Blair"
+    },
+    "358": {
+      "a": "Mac the Knife",
+      "b": "Wade Blade"
+    },
+    "359": {
+      "a": "Kerosene Kerry",
+      "b": "Blazin' Blake"
+    },
+    "360": {
+      "a": "Marcus Mucus",
+      "b": "Gun Beryl"
+    },
+    "361": {
+      "a": "Diced Brice",
+      "b": "Chopped Chet"
+    },
+    "362": {
+      "a": "Doug Food",
+      "b": "Nick Yick"
+    },
+    "363": {
+      "a": "Slidin' Sloan",
+      "b": "Flamin' Damon"
+    },
+    "364": {
+      "a": "Sticky Ricky",
+      "b": "Gooey Louie"
+    },
+    "365": {
+      "a": "Shrap Nell",
+      "b": "Hanna Grenade"
+    },
+    "366": {
+      "a": "Low-Life Lola",
+      "b": "Sis Pool"
+    },
+    "367": {
+      "a": "Dent Al",
+      "b": "Fluoride Ida"
+    },
+    "368": {
+      "a": "Nat Splat",
+      "b": "Jugglin' Jud"
+    },
+    "369": {
+      "a": "Scalped Ralph",
+      "b": "Bone-Head Fred"
+    },
+    "370": {
+      "a": "Cementin' Quentin",
+      "b": "Minus Hans"
+    },
+    "371": {
+      "a": "Grippin' Griffin",
+      "b": "Ren Wrench"
+    },
+    "372": {
+      "a": "Jack Frost",
+      "b": "Window Payne"
+    },
+    "373": {
+      "a": "Desi Island",
+      "b": "Marooned Maureen"
+    },
+    "374": {
+      "a": "Swiss Kris",
+      "b": "Cheesy Chandra"
+    },
+    "375": {
+      "a": "Trap Dora",
+      "b": "Rear View Myra"
+    },
+    "376": {
+      "a": "Retchin' Gretchen",
+      "b": "Ill Jill"
+    },
+    "377": {
+      "a": "Closet Clyde",
+      "b": "Hooked Howie"
+    },
+    "378": {
+      "a": "Empty Emmy",
+      "b": "Ragged Aggie"
+    }
+  },
+  "os10": {
+    "379": {
+      "a": "Locked Dorian",
+      "b": "Sidney Kidney"
+    },
+    "380": {
+      "a": "Vermin Herman",
+      "b": "Gullivered Travis"
+    },
+    "381": {
+      "a": "Ground Chuck",
+      "b": "Lean Jean"
+    },
+    "382": {
+      "a": "Good-Bye Hy",
+      "b": "Farewell Mel"
+    },
+    "383": {
+      "a": "Itchy Mitch",
+      "b": "Raked Jake"
+    },
+    "384": {
+      "a": "Flamin' Raymond",
+      "b": "Hotty Toddy"
+    },
+    "385": {
+      "a": "Phil 'Er Up",
+      "b": "Chuckin' Charlie"
+    },
+    "386": {
+      "a": "Snotty Dotty",
+      "b": "Frozen Flo"
+    },
+    "387": {
+      "a": "Fatty Maddie",
+      "b": "Cora Corset"
+    },
+    "388": {
+      "a": "Facey Tracie",
+      "b": "Heads Upton"
+    },
+    "389": {
+      "a": "Dire Rita",
+      "b": "Overflow Joe"
+    },
+    "390": {
+      "a": "Connecting Dots",
+      "b": "Twinny Vinnie"
+    },
+    "391": {
+      "a": "Glass Isaac",
+      "b": "False Iris"
+    },
+    "392": {
+      "a": "Ann Chovie",
+      "b": "Sardine Candice"
+    },
+    "393": {
+      "a": "Jess Express",
+      "b": "Choo-Choo Trina"
+    },
+    "394": {
+      "a": "Barb Wire",
+      "b": "Play Penny"
+    },
+    "395": {
+      "a": "Paved Dave",
+      "b": "Run-Over Grover"
+    },
+    "396": {
+      "a": "Creamed Gene",
+      "b": "Clobbered Bob"
+    },
+    "397": {
+      "a": "Cleaned Up Clint",
+      "b": "Sucked Up Stefan"
+    },
+    "398": {
+      "a": "Skiin' Ian",
+      "b": "Sheared Sherwood"
+    },
+    "399": {
+      "a": "Dirty Flora",
+      "b": "Gina Cleaner"
+    },
+    "400": {
+      "a": "Varicose Wayne",
+      "b": "Elaine Vein"
+    },
+    "401": {
+      "a": "Viv E. Section",
+      "b": "Disect Ed"
+    },
+    "402": {
+      "a": "Lunchpail Gail",
+      "b": "Lunchbox Stu"
+    },
+    "403": {
+      "a": "Hunter Punter",
+      "b": "Fractured Francis"
+    },
+    "404": {
+      "a": "Airy Mary",
+      "b": "Hissy Missie"
+    },
+    "405": {
+      "a": "Over-Ripe Melanie",
+      "b": "Walter Melon"
+    },
+    "406": {
+      "a": "Shopping Carter",
+      "b": "Super Marcus"
+    },
+    "407": {
+      "a": "Cracked Sheldon",
+      "b": "Wally Walnut"
+    },
+    "408": {
+      "a": "Lickin' Leon",
+      "b": "Rat-Sucker Randall"
+    },
+    "409": {
+      "a": "Tiltin' Milton",
+      "b": "Amazing Mason"
+    },
+    "410": {
+      "a": "Scratching Pole Paul",
+      "b": "Clawed Claude"
+    },
+    "411": {
+      "a": "Van Pire",
+      "b": "Bud Sucker"
+    },
+    "412": {
+      "a": "Mixed-Up Trixie",
+      "b": "Doughy Chloe"
+    },
+    "413": {
+      "a": "Barnyard Barney",
+      "b": "Dick Hick"
+    },
+    "414": {
+      "a": "Umbilical Courtney",
+      "b": "Yo Yolanda"
+    },
+    "415": {
+      "a": "Erased Erica",
+      "b": "Wiped Out Winnie"
+    },
+    "416": {
+      "a": "Shootin' Newton",
+      "b": "Sherman Tank"
+    },
+    "417": {
+      "a": "Hangin' Harriet",
+      "b": "Swingin' Sophie"
+    }
+  },
+  "os11": {
+    "418": {
+      "a": "Lucy Lock-It",
+      "b": "Shut Up Shirley"
+    },
+    "419": {
+      "a": "Meg-A-Volt",
+      "b": "Charged Marge"
+    },
+    "420": {
+      "a": "Spanked Hank",
+      "b": "Spikey Sondra"
+    },
+    "421": {
+      "a": "Groovy Greg",
+      "b": "Combin' Harry"
+    },
+    "422": {
+      "a": "Sheri Cola",
+      "b": "All Night Dinah"
+    },
+    "423": {
+      "a": "Hungry Ivan",
+      "b": "Sy Sty"
+    },
+    "424": {
+      "a": "Rainy Storm",
+      "b": "Lightning Linda"
+    },
+    "425": {
+      "a": "Denny Saur",
+      "b": "Rip Tile"
+    },
+    "426": {
+      "a": "Quenching Quincy",
+      "b": "Squirtin' Burton"
+    },
+    "427": {
+      "a": "Ripped Fletch",
+      "b": "Tape Tate"
+    },
+    "428": {
+      "a": "Lotta Litter",
+      "b": "Garbage Mouth Gilbert"
+    },
+    "429": {
+      "a": "Laundry Matt",
+      "b": "Drip-Dry Dru"
+    },
+    "430": {
+      "a": "Taste Bud",
+      "b": "Salavatin' Sal"
+    },
+    "431": {
+      "a": "Pollutin' Newton",
+      "b": "Empty Head Jed"
+    },
+    "432": {
+      "a": "Packed Mac",
+      "b": "Sue Case"
+    },
+    "433": {
+      "a": "Porcelain Lynn",
+      "b": "Arlene Latrine"
+    },
+    "434": {
+      "a": "Holly Daze",
+      "b": "Joyous Noel"
+    },
+    "435": {
+      "a": "London Bridgett",
+      "b": "Toxic Wes"
+    },
+    "436": {
+      "a": "Scaldin' Alden",
+      "b": "Steamy Mimi"
+    },
+    "437": {
+      "a": "Sliced Brad",
+      "b": "Dead Lee"
+    },
+    "438": {
+      "a": "Hallie Ween",
+      "b": "Trick Or Tricia"
+    },
+    "439": {
+      "a": "Jack Splat",
+      "b": "Abstract Art"
+    },
+    "440": {
+      "a": "Bert Squirt",
+      "b": "Fritzie Zits"
+    },
+    "441": {
+      "a": "Loose Leif",
+      "b": "Composition Booker"
+    },
+    "442": {
+      "a": "Rugged Roy",
+      "b": "Bare Barry"
+    },
+    "443": {
+      "a": "Wet Whit",
+      "b": "Wee-Wee Willie"
+    },
+    "444": {
+      "a": "Fairy Tale Dale",
+      "b": "Nose Drip Skip"
+    },
+    "445": {
+      "a": "Colette Coldcut",
+      "b": "Ellie Deli"
+    },
+    "446": {
+      "a": "Mean Marlene",
+      "b": "Punk Rocky"
+    },
+    "447": {
+      "a": "Gushing Garfield",
+      "b": "Drained Blaine"
+    },
+    "448": {
+      "a": "Touch Toni",
+      "b": "Phoney Joni"
+    },
+    "449": {
+      "a": "Bert Food",
+      "b": "Gutsy Gus"
+    },
+    "450": {
+      "a": "Ike Spike",
+      "b": "Mason Mace"
+    },
+    "451": {
+      "a": "Destroyed Lloyd",
+      "b": "Tinsel Tim"
+    },
+    "452": {
+      "a": "Impailed Gail",
+      "b": "Magic Wanda"
+    },
+    "453": {
+      "a": "Dead End Kit",
+      "b": "Slidin' Clyde"
+    },
+    "454": {
+      "a": "Lynched Lyndon",
+      "b": "Bruce Noose"
+    },
+    "455": {
+      "a": "Charred Cole",
+      "b": "Deviled Egbert"
+    },
+    "456": {
+      "a": "Split Cord",
+      "b": "William Won't Tell"
+    },
+    "457": {
+      "a": "Sally Suction",
+      "b": "Teethin' Trina"
+    },
+    "458": {
+      "a": "Dental Hy Gene",
+      "b": "Rudy Canal"
+    },
+    "459": {
+      "a": "Vomi-Ted",
+      "b": "Juicy Jules"
+    }
+  },
+  "os12": {
+    "460": {
+      "a": "Ball 'n Shane",
+      "b": "Hard Rocky"
+    },
+    "461": {
+      "a": "Mara Thon",
+      "b": "Racy Lacey"
+    },
+    "462": {
+      "a": "Half Price",
+      "b": "Checked-Out Chet"
+    },
+    "463": {
+      "a": "Phooey to Hugh",
+      "b": "Razzin' Ross"
+    },
+    "464": {
+      "a": "Tongue Tied Teddy",
+      "b": "Dressed to Killian"
+    },
+    "465": {
+      "a": "Upsy Daisys",
+      "b": "Barfy Barbies"
+    },
+    "466": {
+      "a": "Seasick Cecil",
+      "b": "Dinner at Eytan"
+    },
+    "467": {
+      "a": "Tongue in Chico",
+      "b": "Nick Lick"
+    },
+    "468": {
+      "a": "Mummified Clyde",
+      "b": "Twyla Paper"
+    },
+    "469": {
+      "a": "Upset Tommy",
+      "b": "Tub 'o Lars"
+    },
+    "470": {
+      "a": "Quick Sandy",
+      "b": "Abraham Sinkin'"
+    },
+    "471": {
+      "a": "Freestyle Kyle",
+      "b": "Rad Rod"
+    },
+    "472": {
+      "a": "Walter Fall",
+      "b": "Ronny Nose"
+    },
+    "473": {
+      "a": "Heavy Meryl",
+      "b": "One-Night Stan"
+    },
+    "474": {
+      "a": "Sole Food Sol",
+      "b": "Gooey Stuey"
+    },
+    "475": {
+      "a": "Road-Kill Will",
+      "b": "Stop Sy"
+    },
+    "476": {
+      "a": "Barf Band Ben",
+      "b": "Off Key Lee"
+    },
+    "477": {
+      "a": "Ingrid Inc.",
+      "b": "Smokestack Zach"
+    },
+    "478": {
+      "a": "Bizarre Lamar",
+      "b": "Rearranged Raymond"
+    },
+    "479": {
+      "a": "Gulpin' Gabe",
+      "b": "Over Eaten' Ethan"
+    },
+    "480": {
+      "a": "Robby Rubbish",
+      "b": "Garbage Pail Kitty"
+    },
+    "481": {
+      "a": "Car-Stick Karla",
+      "b": "Cruisin' Susan"
+    },
+    "482": {
+      "a": "Lickin' Leo",
+      "b": "Lappin' Lenny"
+    },
+    "483": {
+      "a": "Seedy Sydney",
+      "b": "Fertile Myrtle"
+    },
+    "484": {
+      "a": "Tim Can",
+      "b": "Rusty Bolts"
+    },
+    "485": {
+      "a": "12 O'Clock Hy",
+      "b": "Midnight Dwight"
+    },
+    "486": {
+      "a": "Chiseler Chad",
+      "b": "Julius Sneezer"
+    },
+    "487": {
+      "a": "Dead Letter Debbie",
+      "b": "Maimed Mamie"
+    },
+    "488": {
+      "a": "Telly Scope",
+      "b": "Peek-a-Boo Beau"
+    },
+    "489": {
+      "a": "Irate Ira",
+      "b": "Angry Annie"
+    },
+    "490": {
+      "a": "Kinky Kristine",
+      "b": "Knot the Norm"
+    },
+    "491": {
+      "a": "Sunken Trevor",
+      "b": "Anchored Hank"
+    },
+    "492": {
+      "a": "Cory on the Cob",
+      "b": "Hot Buttered Corinne"
+    },
+    "493": {
+      "a": "Peanut Butter 'n Kelly",
+      "b": "Out-to-Lunch Lance"
+    },
+    "494": {
+      "a": "Mitch Match",
+      "b": "Hot Dot"
+    },
+    "495": {
+      "a": "Gloppy Glen",
+      "b": "Slop Top Todd"
+    },
+    "496": {
+      "a": "Allison Waterland",
+      "b": "Jon Pond"
+    },
+    "497": {
+      "a": "Lame Lem",
+      "b": "Edward Hopper"
+    },
+    "498": {
+      "a": "Rolls Royce",
+      "b": "Piston Pete"
+    },
+    "499": {
+      "a": "Abandoned Amanda",
+      "b": "Please Give Me a Homer"
+    },
+    "500": {
+      "a": "Winkless Wally",
+      "b": "Sight Les"
+    }
+  },
+  "os13": {
+    "501": {
+      "a": "Missing Marcia",
+      "b": "Hidden Heidi"
+    },
+    "502": {
+      "a": "Gory Laurie",
+      "b": "Undead Ned"
+    },
+    "503": {
+      "a": "Louise Trapeze",
+      "b": "3-Ring Cyril"
+    },
+    "504": {
+      "a": "Cooper Scooper",
+      "b": "Jess Desserts"
+    },
+    "505": {
+      "a": "Sucked Chuck",
+      "b": "Unsani-Terry"
+    },
+    "506": {
+      "a": "Tire Jack",
+      "b": "Crankin' Franklin"
+    },
+    "507": {
+      "a": "Target Prentice",
+      "b": "Blow Hardy"
+    },
+    "508": {
+      "a": "Barry Bomber",
+      "b": "Hi-Flyin' Bryan"
+    },
+    "509": {
+      "a": "Misfortune Cookie",
+      "b": "Chow Maynard"
+    },
+    "510": {
+      "a": "Grim Kim",
+      "b": "Taffy Pull"
+    },
+    "511": {
+      "a": "Puffy Buffy",
+      "b": "Busty Dusty"
+    },
+    "512": {
+      "a": "Seymour Barf",
+      "b": "Kent Stand It"
+    },
+    "513": {
+      "a": "Repeatin' Pete",
+      "b": "Round Robyns"
+    },
+    "514": {
+      "a": "Ampu-Ted",
+      "b": "Hans Off"
+    },
+    "515": {
+      "a": "Wretched Richard",
+      "b": "Billy Ache"
+    },
+    "516": {
+      "a": "Bubblin' Lynn",
+      "b": "Heavin' Heather"
+    },
+    "517": {
+      "a": "Chester Drawers",
+      "b": "Natty Dresser"
+    },
+    "518": {
+      "a": "Barfin' Marvin",
+      "b": "Over Etan"
+    },
+    "519": {
+      "a": "Paddlin' Adeline",
+      "b": "Rikki Racket"
+    },
+    "520": {
+      "a": "Sprinkling Jose",
+      "b": "Jay Spray"
+    },
+    "521": {
+      "a": "Dee Odorant",
+      "b": "Stan Can"
+    },
+    "522": {
+      "a": "Bloody Murray",
+      "b": "Juan for the Road"
+    },
+    "523": {
+      "a": "Meltdown Meryl",
+      "b": "Steamed Piper"
+    },
+    "524": {
+      "a": "Pop Connie",
+      "b": "Poppy Corn"
+    },
+    "525": {
+      "a": "Cocktail Dale",
+      "b": "Party-Pooper Patty"
+    },
+    "526": {
+      "a": "Ripped Kip",
+      "b": "Torn Shaun"
+    },
+    "527": {
+      "a": "Toilet Bo",
+      "b": "Butt-Bit Brandon"
+    },
+    "528": {
+      "a": "Daniel Prune",
+      "b": "Dried-Fruit Newt"
+    },
+    "529": {
+      "a": "Corkscrewed Drew",
+      "b": "Champ-pained Dwayne"
+    },
+    "530": {
+      "a": "Fun Gus",
+      "b": "Warty Morty"
+    },
+    "531": {
+      "a": "Stormy Skye",
+      "b": "Claude Burst"
+    },
+    "532": {
+      "a": "Fertile Liza",
+      "b": "Horace Manure"
+    },
+    "533": {
+      "a": "Jiggly Jennifer",
+      "b": "Spooned June"
+    },
+    "534": {
+      "a": "Jayne Drain",
+      "b": "Eda Mouthful"
+    },
+    "535": {
+      "a": "Howie Hanging",
+      "b": "Rush Hour Russ"
+    },
+    "536": {
+      "a": "Scrambled Aggie",
+      "b": "Sonny Side Up"
+    },
+    "537": {
+      "a": "Miriam Migrane",
+      "b": "Head Buster"
+    },
+    "538": {
+      "a": "Cat-Cradle Cathy",
+      "b": "Gooey Gwen"
+    },
+    "539": {
+      "a": "John John",
+      "b": "All Wet Walt"
+    },
+    "540": {
+      "a": "Ill Windsor",
+      "b": "Horatio Hornblower"
+    }
+  },
+  "os14": {
+    "541": {
+      "a": "Rocco Socko",
+      "b": "Destroyed Boyd"
+    },
+    "542": {
+      "a": "Jugglin' Julian",
+      "b": "Up in the Aaron"
+    },
+    "543": {
+      "a": "Undersea Lee",
+      "b": "Sailin' Waylon"
+    },
+    "544": {
+      "a": "Zipped Kip",
+      "b": "Jack Tracks"
+    },
+    "545": {
+      "a": "Artie Party",
+      "b": "Driftin' Clifton"
+    },
+    "546": {
+      "a": "Modern Marlise",
+      "b": "Abstract Abby"
+    },
+    "547": {
+      "a": "Cuckoo Clark",
+      "b": "Bile Lyle"
+    },
+    "548": {
+      "a": "Walt to Wall",
+      "b": "Nailed Noel"
+    },
+    "549": {
+      "a": "Shannon Cannon",
+      "b": "Bomb Shelly"
+    },
+    "550": {
+      "a": "Violent Viola",
+      "b": "Sawin' Susan"
+    },
+    "551": {
+      "a": "Rah Rah Roni",
+      "b": "Sis Boom Bonnie"
+    },
+    "552": {
+      "a": "Half Whit",
+      "b": "Lead-Head Ned"
+    },
+    "553": {
+      "a": "Cold Sore Lenore",
+      "b": "Kissy Missy"
+    },
+    "554": {
+      "a": "Rufus Refuse",
+      "b": "Cleaned Up Parker"
+    },
+    "555": {
+      "a": "Alien Ed",
+      "b": "Phone Homer"
+    },
+    "556": {
+      "a": "Mothy Martha",
+      "b": "Nailed Natalie"
+    },
+    "557": {
+      "a": "Stu Brew",
+      "b": "Empty Ken"
+    },
+    "558": {
+      "a": "Hans Off",
+      "b": "Numb Nate"
+    },
+    "559": {
+      "a": "Dwayne Stain",
+      "b": "Spilled Gil"
+    },
+    "560": {
+      "a": "Lappin' Larry",
+      "b": "Guzzlin' Guy"
+    },
+    "561": {
+      "a": "Marsh Room",
+      "b": "Todd Stool"
+    },
+    "562": {
+      "a": "Post No Bill",
+      "b": "Bulletin Boris"
+    },
+    "563": {
+      "a": "Potato Chip",
+      "b": "Dick Tater"
+    },
+    "564": {
+      "a": "Millie Meter",
+      "b": "Asa Rule"
+    },
+    "565": {
+      "a": "Easter Bonnie",
+      "b": "Hard-Boiled Meg"
+    },
+    "566": {
+      "a": "Swarmin' Armin",
+      "b": "Infested Lester"
+    },
+    "567": {
+      "a": "Doomsday Dom",
+      "b": "A-Bomb Tom"
+    },
+    "568": {
+      "a": "Glut Tony",
+      "b": "Phil Swill"
+    },
+    "569": {
+      "a": "Cut Curt",
+      "b": "Electric Fanny"
+    },
+    "570": {
+      "a": "Ava Shaver",
+      "b": "Holly Hormone"
+    },
+    "571": {
+      "a": "Rubber Robert",
+      "b": "Inside Otto"
+    },
+    "572": {
+      "a": "Fake Jake",
+      "b": "Sham Sam"
+    },
+    "573": {
+      "a": "Snotwich Sandra",
+      "b": "Hedda Spreader"
+    },
+    "574": {
+      "a": "Shattered Shell",
+      "b": "Fractured Frank"
+    },
+    "575": {
+      "a": "Brain Drain Brian",
+      "b": "Pick a Winnie"
+    },
+    "576": {
+      "a": "Croaked Kaye",
+      "b": "Sporty Morty"
+    },
+    "577": {
+      "a": "Sown Sonya",
+      "b": "Stitchin' Tyne"
+    },
+    "578": {
+      "a": "Dial-a-Twyla",
+      "b": "Phone Bella"
+    },
+    "579": {
+      "a": "Judd Cud",
+      "b": "Spearmint Mindy"
+    },
+    "580": {
+      "a": "Burnt-Out Brett",
+      "b": "Burne Toast"
+    }
+  },
+  "os15": {
+    "581": {
+      "a": "Shel Game",
+      "b": "3-Card Monte"
+    },
+    "582": {
+      "a": "Take-Out Dinah",
+      "b": "Chow Mame"
+    },
+    "583": {
+      "a": "Lyle Tile",
+      "b": "Harry Glyph"
+    },
+    "584": {
+      "a": "Slimie Hymie",
+      "b": "Crawlin' Rollin"
+    },
+    "585": {
+      "a": "Picky Nick",
+      "b": "Beulah Ghoul"
+    },
+    "586": {
+      "a": "Peter Cheater",
+      "b": "Dean List"
+    },
+    "587": {
+      "a": "Cornelia Flake",
+      "b": "Mala Nutrition"
+    },
+    "588": {
+      "a": "Yo! Gert",
+      "b": "Ice Cream Connie"
+    },
+    "589": {
+      "a": "Ecch Benedict",
+      "b": "Brain Les"
+    },
+    "590": {
+      "a": "Little Leak Len",
+      "b": "Snot-Ball Saul"
+    },
+    "591": {
+      "a": "Frank Footer",
+      "b": "Dog Bites Boyd"
+    },
+    "592": {
+      "a": "Extra Dexter",
+      "b": "Flabby Abby"
+    },
+    "593": {
+      "a": "Footloose Fred",
+      "b": "Lucky Lew"
+    },
+    "594": {
+      "a": "Tied Di",
+      "b": "Knotty Lottie"
+    },
+    "595": {
+      "a": "Mal Practice",
+      "b": "Intensive Carrie"
+    },
+    "596": {
+      "a": "Sani Klaus",
+      "b": "Sick Nick"
+    },
+    "597": {
+      "a": "Harry Armpits",
+      "b": "Under Arnie"
+    },
+    "598": {
+      "a": "Vise Guy",
+      "b": "Hugh Fix-It"
+    },
+    "599": {
+      "a": "Bern-Out",
+      "b": "Dim-Bulb Bob"
+    },
+    "600": {
+      "a": "Vendo-Matt",
+      "b": "Doug Slug"
+    },
+    "601": {
+      "a": "Losin' Wade",
+      "b": "Hy Cholesterol"
+    },
+    "602": {
+      "a": "Upside Donna",
+      "b": "Two-Fer Juan"
+    },
+    "603": {
+      "a": "Mitch Mitt",
+      "b": "Foul Bill"
+    },
+    "604": {
+      "a": "Sandi Box",
+      "b": "Cat Litter"
+    },
+    "605": {
+      "a": "Windy Mindy",
+      "b": "Birthday Kate"
+    },
+    "606": {
+      "a": "Foul-Towel Raoul",
+      "b": "Muddy Buddy"
+    },
+    "607": {
+      "a": "Kit Video",
+      "b": "Ham Actor"
+    },
+    "608": {
+      "a": "Fairy Mary",
+      "b": "Stinker Belle"
+    },
+    "609": {
+      "a": "Dewy Dewey",
+      "b": "Dank Frank"
+    },
+    "610": {
+      "a": "Beau Constricted",
+      "b": "Coiled Carl"
+    },
+    "611": {
+      "a": "Acid Wayne",
+      "b": "Polluted Paul"
+    },
+    "612": {
+      "a": "Shoe Lacey",
+      "b": "Weird Walker"
+    },
+    "613": {
+      "a": "Bag Piper",
+      "b": "Great Scott"
+    },
+    "614": {
+      "a": "Fillin' Dylan",
+      "b": "Cutting Juan"
+    },
+    "615": {
+      "a": "Preston Change-O",
+      "b": "Sleight of Hans"
+    },
+    "616": {
+      "a": "Alec Gator",
+      "b": "Croco-Dale"
+    },
+    "617": {
+      "a": "Claude Flesh",
+      "b": "Slasher Asher"
+    },
+    "618": {
+      "a": "Paper Dolly",
+      "b": "Catie Cut-Up"
+    },
+    "619": {
+      "a": "V.C. Arnie",
+      "b": "Cassette Casey"
+    },
+    "620": {
+      "a": "Ada Bomb",
+      "b": "Blasted Betty"
+    }
+  },
+  "tv_streaming": {
+    "1": {
+      "a": "Fragile FRANK",
+      "b": "KEVIN Cards"
+    },
+    "2": {
+      "a": "Make JAKE",
+      "b": "Set-up STEVEN"
+    },
+    "3": {
+      "a": "Black JACK",
+      "b": "MICHAEL Mirror"
+    },
+    "4": {
+      "a": "Unbreakable ANNABELLE",
+      "b": "\"Grim\" KIM"
+    },
+    "5": {
+      "a": "Messed-up MINDY",
+      "b": "Self FI"
+    }
+  },
+  "tv_syndicated": {
+    "1": {
+      "a": "Friend LEE",
+      "b": "Fried FRY"
+    },
+    "2": {
+      "a": "Freaked-out FRASIER",
+      "b": "Cheery KELSEY"
+    },
+    "3": {
+      "a": "Loony LUCY",
+      "b": "Sweet Tooth RUTH"
+    },
+    "4": {
+      "a": "Grillin' GILLIGAN",
+      "b": "Barbequed BOB"
+    },
+    "5": {
+      "a": "Late LASSIE",
+      "b": "TIMMY Tomb"
+    },
+    "6": {
+      "a": "Mashed ASH",
+      "b": "RON Over"
+    },
+    "7": {
+      "a": "Quirky KIRK",
+      "b": "TRENT Trek"
+    },
+    "8": {
+      "a": "Wrecked RALPH",
+      "b": "ALICE Attacks"
+    }
+  },
+  "tv_scifi": {
+    "1": {
+      "a": "JON Snowy",
+      "b": "Cold KIT"
+    },
+    "2": {
+      "a": "Draggin' DAENERYS",
+      "b": "Irked EMILIA"
+    },
+    "3": {
+      "a": "Trapped TYRION",
+      "b": "Perturbed PETER"
+    },
+    "4": {
+      "a": "OPHELIA Orphan",
+      "b": "Scary SARAH"
+    },
+    "5": {
+      "a": "Limit LES",
+      "b": "Brainy BRIAN"
+    },
+    "6": {
+      "a": "Leftover LENNY",
+      "b": "Cruel KEVIN"
+    },
+    "7": {
+      "a": "Flighty FLINT",
+      "b": "Jokester JAMES"
+    },
+    "8": {
+      "a": "COLIN-ny",
+      "b": "WILL Wall"
+    },
+    "9": {
+      "a": "Abduct TED",
+      "b": "Probed JOBE"
+    },
+    "10": {
+      "a": "XXX-GILES",
+      "b": "Foxy MULDER"
+    }
+  },
+  "tv_reboot": {
+    "1": {
+      "a": "Open SCULLY",
+      "b": "Disguised DANA"
+    },
+    "2": {
+      "a": "Twin FINN",
+      "b": "Cherry COOPER"
+    },
+    "3": {
+      "a": "Twen-TY",
+      "b": "Whacked JACK"
+    },
+    "4": {
+      "a": "Hawaii Five OWEN",
+      "b": "Surf's UPTON"
+    },
+    "5": {
+      "a": "Full KLAUS",
+      "b": "Stuffed STEPHANIE"
+    },
+    "6": {
+      "a": "Odd TODD",
+      "b": "Cup-PAUL"
+    },
+    "7": {
+      "a": "Powerpuff POLLY",
+      "b": "Bumped BLOSSOM"
+    },
+    "8": {
+      "a": "Torn TOM",
+      "b": "Scary JERRY"
+    }
+  },
+  "tv_reality": {
+    "1": {
+      "a": "KIM Kar Trashy N.",
+      "b": "Nasty NOEL"
+    },
+    "2": {
+      "a": "Pained PHARRELL",
+      "b": "Bloody BLAKE"
+    },
+    "3": {
+      "a": "Angry ARNOLD",
+      "b": "Termin NATE"
+    },
+    "4": {
+      "a": "Project RON Way",
+      "b": "Fash SEAN"
+    },
+    "5": {
+      "a": "The Biggest LOUISE R.",
+      "b": "Jacked-up JILLIAN"
+    },
+    "6": {
+      "a": "Catfishy FINN",
+      "b": "Nervous NEV"
+    },
+    "7": {
+      "a": "Fishin' FRANK",
+      "b": "Mucus MIKE"
+    },
+    "8": {
+      "a": "Face OPHELIA",
+      "b": "Messed-up McKENZIE"
+    },
+    "9": {
+      "a": "Botch ED",
+      "b": "Plastic PAUL"
+    },
+    "10": {
+      "a": "Moody JUDY",
+      "b": "Insane JANE"
+    },
+    "11": {
+      "a": "Painful PENN",
+      "b": "Torn TELLER"
+    },
+    "12": {
+      "a": "The Isl-ANDY",
+      "b": "Lone LEE"
+    }
+  },
+  "tv_news": {
+    "1": {
+      "a": "Night LEE",
+      "b": "LESTER Halt"
+    },
+    "2": {
+      "a": "ANDERSON 360\u00b0",
+      "b": "Kooky COOPER"
+    },
+    "3": {
+      "a": "Filed KELLY",
+      "b": "Mangled MEGYN"
+    },
+    "4": {
+      "a": "Face The NATE SEAN",
+      "b": "Bewildered BOB"
+    },
+    "5": {
+      "a": "Lazy LARRY",
+      "b": "Suspender SPENCER"
+    },
+    "6": {
+      "a": "Killer KEITH",
+      "b": "Murderous MORRIS"
+    }
+  },
+  "tv_latenight": {
+    "1": {
+      "a": "JIMMY Fallin'",
+      "b": "Tonight JOE"
+    },
+    "2": {
+      "a": "CONAN O'Barbarian",
+      "b": "NATE Night"
+    },
+    "3": {
+      "a": "Full Frontal FRAN",
+      "b": "Severed SAMANTHA"
+    },
+    "4": {
+      "a": "Beat BILL",
+      "b": "Mauled MAHER"
+    }
+  },
+  "tv_horror": {
+    "1": {
+      "a": "MATT Ress",
+      "b": "American Horror RORY"
+    },
+    "2": {
+      "a": "VANNA Pyre",
+      "b": "di ARY"
+    },
+    "3": {
+      "a": "MO Tel",
+      "b": "Ab NORMA"
+    },
+    "4": {
+      "a": "Sleepy HAL O.",
+      "b": "ICHABOD iless"
+    },
+    "5": {
+      "a": "GENE Wolf",
+      "b": "Hairy HARRY"
+    },
+    "6": {
+      "a": "Red NED",
+      "b": "Devilish DEVIN"
+    },
+    "7": {
+      "a": "Evil TED",
+      "b": "ASH Can"
+    },
+    "8": {
+      "a": "Dusky DUSTIN",
+      "b": "Till DON"
+    }
+  },
+  "tv_gameshow": {
+    "1": {
+      "a": "JEFF Ardee",
+      "b": "Full Watt WATSON"
+    },
+    "2": {
+      "a": "Wheel of For-JUNE",
+      "b": "Vain VANNA"
+    },
+    "3": {
+      "a": "DREW Blood",
+      "b": "Crushed CAREY"
+    },
+    "4": {
+      "a": "FANNY Feud",
+      "b": "STEVE Hurty"
+    },
+    "5": {
+      "a": "FOX Unworthy",
+      "b": "Smarter CARTER"
+    }
+  },
+  "tv_food": {
+    "1": {
+      "a": "ANTHONY Burned-ain",
+      "b": "BO Reservations"
+    },
+    "2": {
+      "a": "Dive CLIVE",
+      "b": "Gross GUY"
+    },
+    "3": {
+      "a": "Top SETH",
+      "b": "PADMA Puke"
+    },
+    "4": {
+      "a": "Chop ED",
+      "b": "Touched TED"
+    },
+    "5": {
+      "a": "I. RON Chef",
+      "b": "Iron SETH"
+    },
+    "6": {
+      "a": "Hell's KIT",
+      "b": "Gory GORDON"
+    },
+    "7": {
+      "a": "JAKE Boss",
+      "b": "Nutty BUDDY"
+    },
+    "8": {
+      "a": "Food Fight-EARL",
+      "b": "MANNY vs. Food"
+    }
+  },
+  "tv_drama": {
+    "1": {
+      "a": "LENA Dumpham",
+      "b": "Heinous HANNAH"
+    },
+    "2": {
+      "a": "Charcoaled KELLY",
+      "b": "Melted MATTHEW"
+    },
+    "3": {
+      "a": "Washed WILL",
+      "b": "Chicago ED"
+    },
+    "4": {
+      "a": "TUT Toots",
+      "b": "AY- iee"
+    },
+    "5": {
+      "a": "DREW Zoo",
+      "b": "Jawed JACKSON"
+    }
+  },
+  "tv_daytime": {
+    "1": {
+      "a": "OZ The Wizard",
+      "b": "Phony PHIL"
+    },
+    "2": {
+      "a": "Fallin' ELLEN",
+      "b": "Dead LEE"
+    },
+    "3": {
+      "a": "Germy JERRY",
+      "b": "Smutty SPRINGER"
+    },
+    "4": {
+      "a": "Unhealthy HODA",
+      "b": "Crocked KATHIE LEE"
+    },
+    "5": {
+      "a": "Odd OZ",
+      "b": "Mooning MEHMET"
+    }
+  },
+  "tv_crime": {
+    "1": {
+      "a": "American Crime JORY",
+      "b": "Criminal CUBA"
+    },
+    "2": {
+      "a": "CY Ber",
+      "b": "Crime Scene JEAN"
+    },
+    "3": {
+      "a": "MARGOT, North Dakota",
+      "b": "Murder MOLLY"
+    },
+    "4": {
+      "a": "Bony BONNIE",
+      "b": "Forensic FLORENCE"
+    },
+    "5": {
+      "a": "Blind DOT",
+      "b": "Tatted TATIANA"
+    },
+    "6": {
+      "a": "Crimin-AL",
+      "b": "Mind Over MATT"
+    }
+  },
+  "tv_comedy": {
+    "1": {
+      "a": "Broke BROOKE",
+      "b": "Cracked CAROLINE"
+    },
+    "2": {
+      "a": "Lazy ILANA",
+      "b": "ABBI Normal"
+    },
+    "3": {
+      "a": "Shelled SELINA",
+      "b": "Jingoist JULIA"
+    },
+    "4": {
+      "a": "PHIL Thy",
+      "b": "Last MANNY"
+    },
+    "5": {
+      "a": "Stuck Inside AMY",
+      "b": "SCHUMER Tumor"
+    }
+  },
+  "tv_comicbook": {
+    "1": {
+      "a": "Green AARON",
+      "b": "Hawk IRA"
+    },
+    "2": {
+      "a": "Flashin' ASH",
+      "b": "Bare BARRY"
+    },
+    "3": {
+      "a": "Hawk MANNY",
+      "b": "Caged CARTER"
+    },
+    "4": {
+      "a": "SUE PEARL Girl",
+      "b": "Cutting KARA"
+    },
+    "5": {
+      "a": "OZ Waddle",
+      "b": "Goth ADAM"
+    },
+    "6": {
+      "a": "I.Zom BEA",
+      "b": "Not LIV"
+    },
+    "7": {
+      "a": "SY Borg",
+      "b": "Teen TY TIM"
+    },
+    "8": {
+      "a": "Unlucky LEO",
+      "b": "Un SHELDON"
+    }
+  },
+  "tv_classicrerun": {
+    "1": {
+      "a": "ROY Bot",
+      "b": "Catty KATHY"
+    },
+    "2": {
+      "a": "TAYLOR Tubby",
+      "b": "MORGAN Organ"
+    },
+    "3": {
+      "a": "LISA Loser",
+      "b": "Marooned MARISSA"
+    },
+    "4": {
+      "a": "On Camera CAMERON",
+      "b": "The Real WONDA"
+    },
+    "5": {
+      "a": "CLAY Achin'",
+      "b": "Idol IVAN"
+    },
+    "6": {
+      "a": "Grunge BOB",
+      "b": "Spongey SPENCER"
+    },
+    "7": {
+      "a": "MATT Mobile",
+      "b": "Batty BRAD"
+    },
+    "8": {
+      "a": "Heavin' HUNTER",
+      "b": "Rabbit CHASE"
+    },
+    "9": {
+      "a": "LEONARD Nimrod",
+      "b": "Trekkie TREVOR"
+    },
+    "10": {
+      "a": "Hot Head HARVEY",
+      "b": "Catty KATHY"
+    }
+  },
+  "tv_cartoon": {
+    "1": {
+      "a": "Merged MARGE",
+      "b": "Melded MAGGIE"
+    },
+    "2": {
+      "a": "South MARK",
+      "b": "Killer KENNY"
+    },
+    "3": {
+      "a": "Burger BOB",
+      "b": "Pat PATTY"
+    },
+    "4": {
+      "a": "Regular JOE",
+      "b": "Barfin' BENSON"
+    },
+    "5": {
+      "a": "Grungy BOB",
+      "b": "Spongy SPENCER"
+    },
+    "6": {
+      "a": "My Little POLLY",
+      "b": "ELMA's Glue"
+    },
+    "7": {
+      "a": "Nervous NORVILLE",
+      "b": "Meddling MEL"
+    }
+  },
+  "tv_bomb": {
+    "1": {
+      "a": "ADAM Bomb Theory",
+      "b": "Bomb SHELDON"
+    },
+    "2": {
+      "a": "ADAM Boom",
+      "b": "Blasting BRIAN"
+    }
+  },
+  "fb1": {
+    "1": {
+      "a": "Nasty NICK",
+      "b": "Evil EDDIE"
+    },
+    "2": {
+      "a": "Dead TED",
+      "b": "JAY Decay"
+    },
+    "3": {
+      "a": "ADAM Bomb",
+      "b": "Blasted BILLY"
+    },
+    "4": {
+      "a": "Tee-Vee STEVIE",
+      "b": "Geeky GARY"
+    },
+    "5": {
+      "a": "Potty SCOTTY",
+      "b": "JASON Basin"
+    },
+    "6": {
+      "a": "Corroded CARL",
+      "b": "Crater CHRIS"
+    },
+    "7": {
+      "a": "Bony JOANIE",
+      "b": "Thin LYNN"
+    },
+    "8": {
+      "a": "New Wave DAVE",
+      "b": "Graffiti PETEY"
+    },
+    "9": {
+      "a": "SY Clops",
+      "b": "One-Eyed JACK"
+    },
+    "10": {
+      "a": "Rappin' RON",
+      "b": "RAY Gun"
+    },
+    "11": {
+      "a": "Double HEATHER",
+      "b": "FRAN FRAN"
+    },
+    "12": {
+      "a": "RUSSELL Muscle",
+      "b": "BRETT Sweat"
+    },
+    "13": {
+      "a": "Spacey STACY",
+      "b": "JANET Planet"
+    },
+    "14": {
+      "a": "Shrunken ED",
+      "b": "Cheeky CHARLES"
+    },
+    "15": {
+      "a": "Ghastly ASHLEY",
+      "b": "Acne AMY"
+    },
+    "16": {
+      "a": "Split KIT",
+      "b": "Mixed-Up MITCH"
+    },
+    "17": {
+      "a": "JOE Blow",
+      "b": "ROD Wad"
+    },
+    "18": {
+      "a": "Hot Head HARVEY",
+      "b": "ROY Bot"
+    },
+    "19": {
+      "a": "DINAH Saur",
+      "b": "FARRAH Fossil"
+    },
+    "20": {
+      "a": "BLAKE Flake",
+      "b": "Hippie SKIPPY"
+    },
+    "21": {
+      "a": "ALI Gator",
+      "b": "Marshy MARSHALL"
+    },
+    "22": {
+      "a": "Silent SANDY",
+      "b": "Barren AARON"
+    },
+    "23": {
+      "a": "Starin' DARREN",
+      "b": "Peepin' TOM"
+    },
+    "24": {
+      "a": "Half-NELSON",
+      "b": "Glandular ANGELA"
+    },
+    "25": {
+      "a": "Armpit BRITT",
+      "b": "Shaggy AGGIE"
+    },
+    "26": {
+      "a": "Sloshed JOSH",
+      "b": "Low CAL"
+    },
+    "27": {
+      "a": "Stuffed STEPHEN",
+      "b": "RUTHERFORD B. Hay"
+    },
+    "28": {
+      "a": "Swollen SUE ELLEN",
+      "b": "Bloated BLAIR"
+    },
+    "29": {
+      "a": "MAX Axe",
+      "b": "Deadly DUDLEY"
+    },
+    "30": {
+      "a": "Alien IAN",
+      "b": "Outerspace CHASE"
+    },
+    "31": {
+      "a": "Baked JAKE",
+      "b": "Dry GUY"
+    },
+    "32": {
+      "a": "Losin' FAITH",
+      "b": "Dyin' DINAH"
+    },
+    "33": {
+      "a": "Handy RANDY",
+      "b": "JORDAN Nuts"
+    },
+    "34": {
+      "a": "NAT Nerd",
+      "b": "CLARK Can't"
+    },
+    "35": {
+      "a": "Meltin' MILTON",
+      "b": "Lazy LOUIE"
+    },
+    "36": {
+      "a": "MOE Skeeto",
+      "b": "Sting RAY"
+    },
+    "37": {
+      "a": "FRAN Furter",
+      "b": "Hot DOUG"
+    },
+    "38": {
+      "a": "Dangling DOLLY",
+      "b": "Surreal NEAL"
+    },
+    "39": {
+      "a": "Fluoride FLOYD",
+      "b": "Dental DANIEL"
+    },
+    "40": {
+      "a": "Toothie RUTHIE",
+      "b": "Dental FLOSSIE"
+    },
+    "41": {
+      "a": "Over FLO",
+      "b": "Moist JOYCE"
+    },
+    "42": {
+      "a": "JOEL Hole",
+      "b": "Teed-Off TOM"
+    },
+    "43": {
+      "a": "Upliftin' CLIFTON",
+      "b": "Air-Head JED"
+    },
+    "44": {
+      "a": "Tiny TIM",
+      "b": "Small SAUL"
+    },
+    "45": {
+      "a": "BEA Sting",
+      "b": "Screaming MIMI"
+    },
+    "46": {
+      "a": "CLAIRE Stare",
+      "b": "Bloodshot SCOTT"
+    },
+    "47": {
+      "a": "HARRY Canary",
+      "b": "BURT Cage"
+    },
+    "48": {
+      "a": "MARC Spark",
+      "b": "CHERRY Bomb"
+    },
+    "49": {
+      "a": "Milky WAYNE",
+      "b": "Dairy CARI"
+    },
+    "50": {
+      "a": "On The MARK",
+      "b": "Bull's IRA"
+    },
+    "51": {
+      "a": "Cut-Up CARMEN",
+      "b": "Dotted LIONEL"
+    },
+    "52": {
+      "a": "Curly SHIRLEY",
+      "b": "Blown JOAN"
+    },
+    "53": {
+      "a": "Have A Nice DAVE",
+      "b": "MILES Smiles"
+    },
+    "54": {
+      "a": "Soured HOWARD",
+      "b": "PAUL Bunion"
+    },
+    "55": {
+      "a": "MANNY Heads",
+      "b": "MAX Stacks"
+    },
+    "56": {
+      "a": "GRANT Ant",
+      "b": "Sticky NIKKI"
+    },
+    "57": {
+      "a": "Bowling ELAINE",
+      "b": "MIKE Strike"
+    },
+    "58": {
+      "a": "Heartless HAL",
+      "b": "BOWEN Arrow"
+    },
+    "59": {
+      "a": "MOE Bile",
+      "b": "Dang LEN"
+    },
+    "60": {
+      "a": "HALEY's Vomit",
+      "b": "Inter STELLA"
+    },
+    "61": {
+      "a": "K.O.'d KARL",
+      "b": "Sparrin' WARREN"
+    },
+    "62": {
+      "a": "Waffle IRA",
+      "b": "Griddled GRETA"
+    },
+    "63": {
+      "a": "Leather HEATHER",
+      "b": "Chained SHANE"
+    },
+    "64": {
+      "a": "Glowing AMBER",
+      "b": "Bright DWIGHT"
+    },
+    "65": {
+      "a": "Pickled PETE",
+      "b": "Formaldehyde FRED"
+    },
+    "66": {
+      "a": "Baby ABIE",
+      "b": "LINCOLN Park"
+    },
+    "67": {
+      "a": "Global WARREN",
+      "b": "AL Pocalypse"
+    },
+    "68": {
+      "a": "Stitched STELLA",
+      "b": "Patchwork PAULA"
+    },
+    "69": {
+      "a": "Raisin' ELLA",
+      "b": "Grape VI"
+    },
+    "70": {
+      "a": "Finger-Paintin' FIFI",
+      "b": "LIBBY Stick"
+    },
+    "71": {
+      "a": "Nasty NICK",
+      "b": "Evil EDDIE"
+    },
+    "72": {
+      "a": "ADAM Bomb",
+      "b": "Blasted BILLY"
+    },
+    "73": {
+      "a": "Boozin' BRUCE",
+      "b": "Drunk KEN"
+    },
+    "74": {
+      "a": "Tee-Vee STEVIE",
+      "b": "Geeky GARY"
+    },
+    "75": {
+      "a": "Cranky FRANKIE",
+      "b": "Bad BRAD"
+    },
+    "76": {
+      "a": "Bony JOANIE",
+      "b": "Thin LYNN"
+    },
+    "77": {
+      "a": "Split KIT",
+      "b": "Mixed-Up MITCH"
+    },
+    "78": {
+      "a": "Hot Head HARVEY",
+      "b": "ROY Bot"
+    },
+    "79": {
+      "a": "Babbling BROOKE",
+      "b": "JELLY Kelly"
+    },
+    "80": {
+      "a": "NAT Nerd",
+      "b": "CLARK Can't"
+    }
+  },
+  "fb2": {
+    "1": {
+      "a": "Junkfood JOHN",
+      "b": "RAY Decay"
+    },
+    "2": {
+      "a": "Stormy HEATHER",
+      "b": "APRIL Showers"
+    },
+    "3": {
+      "a": "Weird WENDY",
+      "b": "Haggy MAGGIE"
+    },
+    "4": {
+      "a": "Cranky FRANKIE",
+      "b": "Bad BRAD"
+    },
+    "5": {
+      "a": "Creepy CAROL",
+      "b": "Scary CARRIE"
+    },
+    "6": {
+      "a": "KIM Kong",
+      "b": "ANNA Banana"
+    },
+    "7": {
+      "a": "Wrappin' RUTH",
+      "b": "TOMMY Tomb"
+    },
+    "8": {
+      "a": "PATTY Putty",
+      "b": "Muggin' MEGAN"
+    },
+    "9": {
+      "a": "Smelly KELLY",
+      "b": "DOUG Plug"
+    },
+    "10": {
+      "a": "Leaky LINDSAY",
+      "b": "Messy TESSIE"
+    },
+    "11": {
+      "a": "Mad DONNA",
+      "b": "Nutty NICOLE"
+    },
+    "12": {
+      "a": "Jolted JOEL",
+      "b": "Live MIKE"
+    },
+    "13": {
+      "a": "Jolly ROGER",
+      "b": "Pegleg PETER"
+    },
+    "14": {
+      "a": "Sewer SUE",
+      "b": "MICHELLE Muck"
+    },
+    "15": {
+      "a": "Hurt CURT",
+      "b": "PAT Splat"
+    },
+    "16": {
+      "a": "DREW Blood",
+      "b": "Bustin' DUSTIN"
+    },
+    "17": {
+      "a": "Bruised LEE",
+      "b": "Karate KATE"
+    },
+    "18": {
+      "a": "Beaky BECKY",
+      "b": "Picky MICKEY"
+    },
+    "19": {
+      "a": "Eerie ERIC",
+      "b": "Berserk KIRK"
+    },
+    "20": {
+      "a": "Babbling BROOKE",
+      "b": "Jelly KELLY"
+    },
+    "21": {
+      "a": "Apply CORY",
+      "b": "DWIGHT Bite"
+    },
+    "22": {
+      "a": "Second Hand ROSE",
+      "b": "Trashed Tracy"
+    },
+    "23": {
+      "a": "Bony TONY",
+      "b": "Unzipped ZACK"
+    },
+    "24": {
+      "a": "Amazin' GRACE",
+      "b": "Muscular MOLLY"
+    },
+    "25": {
+      "a": "Hairy HARRIET",
+      "b": "Bushy BERNICE"
+    },
+    "26": {
+      "a": "Warrin' WARREN",
+      "b": "BRETT Vet"
+    },
+    "27": {
+      "a": "Yicchy MICKEY",
+      "b": "Barfin' BART"
+    },
+    "28": {
+      "a": "Gored GORDON",
+      "b": "No Way JOSE"
+    },
+    "29": {
+      "a": "DEE Faced",
+      "b": "TERRI Cloth"
+    },
+    "30": {
+      "a": "Sprayed WADE",
+      "b": "Tagged TAD"
+    },
+    "31": {
+      "a": "Diaper DAN",
+      "b": "Pinned PENNY"
+    },
+    "32": {
+      "a": "LUCAS Mucus",
+      "b": "DOTTY Dribble"
+    },
+    "33": {
+      "a": "Dangling DOLLY",
+      "b": "Surreal NEAL"
+    },
+    "34": {
+      "a": "MICHAEL Mutant",
+      "b": "ZEKE Freak"
+    },
+    "35": {
+      "a": "Deaf GEOFF",
+      "b": "Audio AUGIE"
+    },
+    "36": {
+      "a": "Intense PAYNE",
+      "b": "First ADA"
+    },
+    "37": {
+      "a": "TOM Thumb",
+      "b": "BRIDGET Digit"
+    },
+    "38": {
+      "a": "JOAN Clone",
+      "b": "Warty WARD"
+    },
+    "39": {
+      "a": "Ugly HANS",
+      "b": "JAN Hand"
+    },
+    "40": {
+      "a": "JOHN John",
+      "b": "Flushing FLOYD"
+    },
+    "41": {
+      "a": "HECTOR Collector",
+      "b": "G.P. KAY"
+    },
+    "42": {
+      "a": "Many LENNY",
+      "b": "Lotta CARLOTTA"
+    },
+    "43": {
+      "a": "MICKEY Mouths",
+      "b": "Oral LAUREL"
+    },
+    "44": {
+      "a": "ADAM Boom",
+      "b": "Blasted BILLY II"
+    },
+    "45": {
+      "a": "PETE Seat",
+      "b": "NOEL Bowl"
+    },
+    "46": {
+      "a": "Elastic ELWOOD",
+      "b": "FLETCHER Stretcher"
+    },
+    "47": {
+      "a": "Shut-Up SHERWIN",
+      "b": "Filled Up PHILIP"
+    },
+    "48": {
+      "a": "Alien ALAN",
+      "b": "Martian MARCIA"
+    },
+    "49": {
+      "a": "HALEY Comet",
+      "b": "JUNE Moon"
+    },
+    "50": {
+      "a": "Explorin' NORMAN",
+      "b": "Drillin' DYLAN"
+    },
+    "51": {
+      "a": "Divin' IVAN",
+      "b": "WALTER Sport"
+    },
+    "52": {
+      "a": "FRITZ Spritz",
+      "b": "ELLA P. Record"
+    },
+    "53": {
+      "a": "Messy BESSIE",
+      "b": "Unclean HELENE"
+    },
+    "54": {
+      "a": "LEM Phlegm",
+      "b": "Gezundt HEIDI"
+    },
+    "55": {
+      "a": "PAGE Cage",
+      "b": "TOMMY Ache"
+    },
+    "56": {
+      "a": "Ortho DONNY",
+      "b": "RUTH Canal"
+    },
+    "57": {
+      "a": "Cute TIPPI",
+      "b": "Waxy WENDY"
+    },
+    "58": {
+      "a": "Early BERT",
+      "b": "Rotten ROBIN"
+    },
+    "59": {
+      "a": "Snot Rope HOPE",
+      "b": "Drippy DEBBIE"
+    },
+    "60": {
+      "a": "Con VIC",
+      "b": "AL Catraz"
+    },
+    "61": {
+      "a": "CLARK Shark",
+      "b": "MANNY Eater"
+    },
+    "62": {
+      "a": "Beasty BOYD",
+      "b": "Semi COLIN"
+    },
+    "63": {
+      "a": "3-DEE",
+      "b": "Blurry BLAIR"
+    },
+    "64": {
+      "a": "Dent AL",
+      "b": "Fluoride IDA"
+    },
+    "65": {
+      "a": "Scalped RALPH",
+      "b": "Bone-Head FRED"
+    },
+    "66": {
+      "a": "Slammed SLOAN",
+      "b": "KEITH Out"
+    },
+    "67": {
+      "a": "Scrawled SAUL",
+      "b": "Bad ART"
+    },
+    "68": {
+      "a": "NOAH Parking",
+      "b": "PETER Meter"
+    },
+    "69": {
+      "a": "Dead FLORA",
+      "b": "Fetid FERN"
+    },
+    "70": {
+      "a": "Idol IRA",
+      "b": "KEN Tiki"
+    },
+    "71": {
+      "a": "Potty SCOTTY",
+      "b": "JASON Basin"
+    },
+    "72": {
+      "a": "Ghastly ASHLEY",
+      "b": "Acne AMY"
+    },
+    "73": {
+      "a": "Jolly ROGER",
+      "b": "Pegleg PETER"
+    },
+    "74": {
+      "a": "Greaser GREG",
+      "b": "CHRIS Hiss"
+    },
+    "75": {
+      "a": "Smelly SALLY",
+      "b": "Fishy PHYLLIS"
+    },
+    "76": {
+      "a": "New Wave DAVE",
+      "b": "Graffiti PETEY"
+    },
+    "77": {
+      "a": "Ultra VIOLET",
+      "b": "TANYA Hide"
+    },
+    "78": {
+      "a": "Barfin' BARBARA",
+      "b": "VALERIE Vomit"
+    },
+    "79": {
+      "a": "Wacky JACKIE",
+      "b": "Loony LENNY"
+    },
+    "80": {
+      "a": "Half-NELSON",
+      "b": "Glandular ANGELA"
+    }
+  },
+  "fb3": {
+    "1": {
+      "a": "Up CHUCK",
+      "b": "Heavin' STEVEN"
+    },
+    "2": {
+      "a": "Fryin' BRIAN",
+      "b": "Electric BILL"
+    },
+    "3": {
+      "a": "Boozin' BRUCE",
+      "b": "Drunk KEN"
+    },
+    "4": {
+      "a": "Wacky JACKIE",
+      "b": "Loony LENNY"
+    },
+    "5": {
+      "a": "Buggy BETTY",
+      "b": "Green JEAN"
+    },
+    "6": {
+      "a": "Mean GENE",
+      "b": "Joltin' JOE"
+    },
+    "7": {
+      "a": "Disgustin' JUSTIN",
+      "b": "Vile KYLE"
+    },
+    "8": {
+      "a": "Fryin' RYAN",
+      "b": "Charred CHAD"
+    },
+    "9": {
+      "a": "TOMMY Gun",
+      "b": "Dead FRED"
+    },
+    "10": {
+      "a": "Clogged DUANE",
+      "b": "Bye Bye BOBBY"
+    },
+    "11": {
+      "a": "Greaser GREG",
+      "b": "CHRIS Hiss"
+    },
+    "12": {
+      "a": "Gorgeous GEORGE",
+      "b": "Dollar BILL"
+    },
+    "13": {
+      "a": "Juicy JESSICA",
+      "b": "Green DEAN"
+    },
+    "14": {
+      "a": "Smelly SALLY",
+      "b": "Fishy PHYLLIS"
+    },
+    "15": {
+      "a": "Snooty SAM",
+      "b": "U.S. ARNIE"
+    },
+    "16": {
+      "a": "ALICE Island",
+      "b": "Liberty LIBBY"
+    },
+    "17": {
+      "a": "Broad MAUD",
+      "b": "Large MARGE"
+    },
+    "18": {
+      "a": "HUGH Mungous",
+      "b": "King-Size KEVIN"
+    },
+    "19": {
+      "a": "ASHLEY Can",
+      "b": "GRETA Garbage"
+    },
+    "20": {
+      "a": "DALE Snail",
+      "b": "Crushed SHELLY"
+    },
+    "21": {
+      "a": "Whisperin' WOODY",
+      "b": "VAN Triloquist"
+    },
+    "22": {
+      "a": "Shorned SEAN",
+      "b": "Hy GENE"
+    },
+    "23": {
+      "a": "RICHIE Retch",
+      "b": "LUKE Puke"
+    },
+    "24": {
+      "a": "WILLIE Wipe-Out",
+      "b": "SPENCER Dispenser"
+    },
+    "25": {
+      "a": "Doughy JOEY",
+      "b": "Starchy ARCHIE"
+    },
+    "26": {
+      "a": "Ultra VIOLET",
+      "b": "TANYA Hide"
+    },
+    "27": {
+      "a": "See More SEYMOUR",
+      "b": "Coy ROY"
+    },
+    "28": {
+      "a": "OTTO Whack",
+      "b": "ELLIOT Mess"
+    },
+    "29": {
+      "a": "MONTE Zuma",
+      "b": "Pagan MEGAN"
+    },
+    "30": {
+      "a": "Newly-Dead ED",
+      "b": "Dyna MIKE"
+    },
+    "31": {
+      "a": "Barfin' BARBARA",
+      "b": "VALERIE Vomit"
+    },
+    "32": {
+      "a": "Gooey HUEY",
+      "b": "BOBBI Booger"
+    },
+    "33": {
+      "a": "VINCENT Van Gone",
+      "b": "Modern ART"
+    },
+    "34": {
+      "a": "Short MORT",
+      "b": "NOAH Body"
+    },
+    "35": {
+      "a": "Bloody MARY",
+      "b": "DONNA Donor"
+    },
+    "36": {
+      "a": "BUCK Puck",
+      "b": "LOWELL Goal"
+    },
+    "37": {
+      "a": "Pumping AARON",
+      "b": "WILL Explode"
+    },
+    "38": {
+      "a": "Squashed JOSH",
+      "b": "Squoze ROSE"
+    },
+    "39": {
+      "a": "CYRIL Bowl",
+      "b": "Soggy OGGIE"
+    },
+    "40": {
+      "a": "MISTY Suds",
+      "b": "AMELIA Airhead"
+    },
+    "41": {
+      "a": "Bazooka JOANNE",
+      "b": "Bubbly BABS"
+    },
+    "42": {
+      "a": "Trap DORA",
+      "b": "Rear View MYRA"
+    },
+    "43": {
+      "a": "Ground CHUCK",
+      "b": "Lean JEAN"
+    },
+    "44": {
+      "a": "Cracked SHELDON",
+      "b": "WALLY Walnut"
+    },
+    "45": {
+      "a": "Barnyard BARNEY",
+      "b": "DICK Hick"
+    },
+    "46": {
+      "a": "Shootin' NEWTON",
+      "b": "SHERMAN Tank"
+    },
+    "47": {
+      "a": "Ripped FLETCH",
+      "b": "Taped TATE"
+    },
+    "48": {
+      "a": "IKE Spike",
+      "b": "MASON Mace"
+    },
+    "49": {
+      "a": "Impaled GAIL",
+      "b": "Magic WANDA"
+    },
+    "50": {
+      "a": "SALLY Suction",
+      "b": "Teethin' TRINA"
+    },
+    "51": {
+      "a": "Ball 'N SHANE",
+      "b": "Hard ROCKY"
+    },
+    "52": {
+      "a": "Upset TOMMY",
+      "b": "Tub O' LARS"
+    },
+    "53": {
+      "a": "Chiseler CHAD",
+      "b": "JULIUS Sneezer"
+    },
+    "54": {
+      "a": "Dead Letter DEBBIE",
+      "b": "Maimed MAMIE"
+    },
+    "55": {
+      "a": "SEYMOUR Barf",
+      "b": "KENT Stand It"
+    },
+    "56": {
+      "a": "Barfin' MARVIN",
+      "b": "Over ETAN"
+    },
+    "57": {
+      "a": "Fun GUS",
+      "b": "Warty MORTY"
+    },
+    "58": {
+      "a": "HOWIE Hanging",
+      "b": "Rush Hour RUSS"
+    },
+    "59": {
+      "a": "ROCCO Socko",
+      "b": "Destroyed BOYD"
+    },
+    "60": {
+      "a": "Doomsday DOM",
+      "b": "A-Bomb TOM"
+    },
+    "61": {
+      "a": "Dial-A-TWYLA",
+      "b": "Phone BELLA"
+    },
+    "62": {
+      "a": "Burnt-Out BRETT",
+      "b": "BURNE Toast"
+    },
+    "63": {
+      "a": "Take-Out DINAH",
+      "b": "Chow MAME"
+    },
+    "64": {
+      "a": "Slimy HYMIE",
+      "b": "Crawlin' ROLLIN"
+    },
+    "65": {
+      "a": "Picky NICK",
+      "b": "BEULAH Ghoul"
+    },
+    "66": {
+      "a": "CLAUDE Flesh",
+      "b": "Slasher ASHER"
+    },
+    "67": {
+      "a": "Prickly PETE",
+      "b": "Thorny BARB"
+    },
+    "68": {
+      "a": "Arach NED",
+      "b": "Web JEB"
+    },
+    "69": {
+      "a": "Shadowy SHELIA",
+      "b": "Vaporized VAL"
+    },
+    "70": {
+      "a": "Dunkin' DUNCAN",
+      "b": "WILL Hung"
+    },
+    "71": {
+      "a": "Stormy HEATHER",
+      "b": "APRIL Showers"
+    },
+    "72": {
+      "a": "Jolted JOEL",
+      "b": "Live MIKE"
+    },
+    "73": {
+      "a": "Phony LISA",
+      "b": "MONA Loser"
+    },
+    "74": {
+      "a": "Bony TONY",
+      "b": "Unzipped ZACK"
+    },
+    "75": {
+      "a": "Alien IAN",
+      "b": "Outerspace CHASE"
+    },
+    "76": {
+      "a": "JACK O. Lantern",
+      "b": "DUNCAN Pumpkin"
+    },
+    "77": {
+      "a": "Toothie RUTHIE",
+      "b": "Dental FLOSSIE"
+    },
+    "78": {
+      "a": "CHRIS Mess",
+      "b": "SANDY Clod"
+    },
+    "79": {
+      "a": "Scalped RALPH",
+      "b": "Bone-Head FRED"
+    },
+    "80": {
+      "a": "BERN-Out",
+      "b": "Dim-Bulb BOB"
+    }
+  },
+  "wb": {
+    "1": {
+      "a": "Junkfood JOHN"
+    },
+    "2": {
+      "a": "Stormy HEATHER"
+    },
+    "3": {
+      "a": "Weird WENDY"
+    },
+    "4": {
+      "a": "Cranky FRANKIE"
+    },
+    "5": {
+      "a": "Creepy CAROL"
+    },
+    "6": {
+      "a": "KIM Kong"
+    },
+    "7": {
+      "a": "Wrappin' RUTH"
+    },
+    "8": {
+      "a": "PATTY Putty"
+    },
+    "9": {
+      "a": "Smelly KELLY"
+    },
+    "10": {
+      "a": "Leaky LINDSAY"
+    },
+    "11": {
+      "a": "Mad DONNA"
+    },
+    "12": {
+      "a": "Jolted JOEL"
+    },
+    "13": {
+      "a": "Jolly ROGER"
+    },
+    "14": {
+      "a": "Sewer SUE"
+    },
+    "15": {
+      "a": "Hurt CURT"
+    },
+    "16": {
+      "a": "DREW Blood"
+    },
+    "17": {
+      "a": "Bruised LEE"
+    },
+    "18": {
+      "a": "Beaky BECKY"
+    },
+    "19": {
+      "a": "Eerie ERIC"
+    },
+    "20": {
+      "a": "Babbling BROOKE"
+    },
+    "21": {
+      "a": "Apply CORY"
+    },
+    "22": {
+      "a": "Second Hand ROSE"
+    },
+    "23": {
+      "a": "Bony TONY"
+    },
+    "24": {
+      "a": "Amazin' GRACE"
+    },
+    "25": {
+      "a": "Hairy HARRIET"
+    },
+    "26": {
+      "a": "Warrin' WARREN"
+    },
+    "27": {
+      "a": "Yicchy MICKEY"
+    },
+    "28": {
+      "a": "Gored GORDON"
+    },
+    "29": {
+      "a": "DEE Faced"
+    },
+    "30": {
+      "a": "Sprayed WADE"
+    },
+    "31": {
+      "a": "Diaper DAN"
+    },
+    "32": {
+      "a": "LUCAS Mucus"
+    },
+    "33": {
+      "a": "Dangling DOLLY"
+    },
+    "34": {
+      "a": "MICHAEL Mutant"
+    },
+    "35": {
+      "a": "Deaf GEOFF"
+    },
+    "36": {
+      "a": "Intense PAYNE"
+    },
+    "37": {
+      "a": "TOM Thumb"
+    },
+    "38": {
+      "a": "JOAN Clone"
+    },
+    "39": {
+      "a": "Ugly HANS"
+    },
+    "40": {
+      "a": "JOHN John"
+    },
+    "41": {
+      "a": "HECTOR Collector"
+    },
+    "42": {
+      "a": "Many LENNY"
+    },
+    "43": {
+      "a": "MICKEY Mouths"
+    },
+    "44": {
+      "a": "ADAM Boom"
+    },
+    "45": {
+      "a": "PETE Seat"
+    },
+    "46": {
+      "a": "Elastic ELWOOD"
+    },
+    "47": {
+      "a": "Shut-Up SHERWIN"
+    },
+    "48": {
+      "a": "Alien ALAN"
+    },
+    "49": {
+      "a": "HALEY Comet"
+    },
+    "50": {
+      "a": "Explorin' NORMAN"
+    },
+    "51": {
+      "a": "Divin' IVAN"
+    },
+    "52": {
+      "a": "FRITZ Spritz"
+    },
+    "53": {
+      "a": "Messy BESSIE"
+    },
+    "54": {
+      "a": "LEM Phlegm"
+    },
+    "55": {
+      "a": "PAGE Cage"
+    },
+    "56": {
+      "a": "Ortho DONNY"
+    },
+    "57": {
+      "a": "Cute TIPPI"
+    },
+    "58": {
+      "a": "Early BERT"
+    },
+    "59": {
+      "a": "Snot Rope HOPE"
+    },
+    "60": {
+      "a": "Con VIC"
+    },
+    "61": {
+      "a": "CLARK Shark"
+    },
+    "62": {
+      "a": "Beasty BOYD"
+    },
+    "63": {
+      "a": "3-DEE"
+    },
+    "64": {
+      "a": "Dent AL"
+    },
+    "65": {
+      "a": "Scalped RALPH"
+    },
+    "66": {
+      "a": "Slammed SLOAN"
+    },
+    "67": {
+      "a": "Scrawled SAUL"
+    },
+    "68": {
+      "a": "NOAH Parking"
+    },
+    "69": {
+      "a": "Dead FLORA"
+    },
+    "70": {
+      "a": "Idol IRA"
+    },
+    "71": {
+      "a": "Potty SCOTTY"
+    },
+    "72": {
+      "a": "Ghastly ASHLEY"
+    },
+    "73": {
+      "a": "Jolly ROGER"
+    },
+    "74": {
+      "a": "Greaser GREG"
+    },
+    "75": {
+      "a": "Smelly SALLY"
+    },
+    "76": {
+      "a": "New Wave DAVE"
+    },
+    "77": {
+      "a": "Ultra VIOLET"
+    },
+    "78": {
+      "a": "Barfin' BARBARA"
+    },
+    "79": {
+      "a": "Wacky JACKIE"
+    },
+    "80": {
+      "a": "Half-NELSON"
+    }
+  }
+}
