@@ -37,3 +37,6 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+
+# Local development notes
+SESSION_PROGRESS.md
